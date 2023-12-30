@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Chuheng Wei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Chuheng Wei
+I am Chuheng Wei, a second-year Ph.D. student in the Transportation System Research (TSR) Group within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by Dr. Matthew J. Barth and Dr. Guoyuan Wu.
 
-A data-driven personal website
+Prior to this, I earned my Bachelor of Engineering in Digital Media Technology from Communication University of China under the guidance of Professor [Wenhui Zhang](https://ices.cuc.edu.cn/2019/1014/c5332a142078/pagem.htm). Following that, I completed my Master degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of Valentina Donzella.
+
+Education
 ======
-First
+* B.S. in Communication University, Beijing, China, 2013-2017
+* M.S. in University of Warwick, Coventry, UK, 2021-2022
+* Ph.D in University of California-Riverside, Riverside,CA US, 2022-
+
 
 Getting started
 ======
