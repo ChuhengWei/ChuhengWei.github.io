@@ -11,7 +11,8 @@ title                    : "Chuheng Wei"
 title_separator          : "-"
 name                     : &name "Chuheng Wei"
 description              : &description "personal description"
-url                      : https://ChuhengWei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
+url                      : https://ChuhengWei.github.io #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChuhengWei/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Chuheng Wei"
   avatar           : "profile.png"
-  bio              : "PhD student at University of California"
+  bio              : "PhD student at University of California-Riverside"
   location         : "California USA"
   employer         :
   pubmed           :
