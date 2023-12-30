@@ -1,7 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: white;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header a {
+            color: #ffffff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            margin: 0 20px;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <div class="container">
+            <h1>我的个人主页</h1>
+        </div>
+    </header>
+    <div class="container">
+        <section id="about">
+            <h2>关于我</h2>
+            <p>这里可以写一些关于你的介绍，比如你的职业、兴趣爱好等。</p>
+        </section>
+        <section id="links">
+            <h2>链接</h2>
+            <ul>
+                <li><a href="https://www.example.com">链接1</a></li>
+                <li><a href="https://www.example.com">链接2</a></li>
+                <li><a href="https://www.example.com">链接3</a></li>
+            </ul>
+        </section>
+    </div>
 </body>
 </html>
+
