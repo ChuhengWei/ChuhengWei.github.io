@@ -12,7 +12,7 @@ I am Chuheng Wei, a second-year Ph.D. student in the [Transportation System Rese
 
 My research primarily focuses on the perception aspects of autonomous driving. This includes vehicle trajectory prediction, object detection, personalized driving models, and cooperative perception in V2I systems. I am deeply interested in how these technologies can enhance the safety and efficiency of autonomous vehicles.
 
-Before joining UC Riverside, I earned my Bachelor of Engineering in Digital Media Technology from Communication University of China under the guidance of Professor [Dr. Wenhui Zhang](https://ices.cuc.edu.cn/2019/1014/c5332a142078/pagem.htm). Following that, I completed my Master degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
+I earned my Bachelor of Engineering in Digital Media Technology from Communication University of China under the guidance of Professor [Dr. Wenhui Zhang](https://ices.cuc.edu.cn/2019/1014/c5332a142078/pagem.htm). Following that, I completed my Master degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
 
 
 
