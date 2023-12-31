@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Vehicle Detecting and Tracking Application Based on YOLOv5 and DeepSort for Bayer Data"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
