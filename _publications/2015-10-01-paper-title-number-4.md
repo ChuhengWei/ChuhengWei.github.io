@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number Test"
+title: "Raw camera data object detectors: an optimisation for automotive processing and transmission"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-paper-4
 excerpt: 'The growth of the '
 date: 2022-10-01
 venue: 'ITSC'
