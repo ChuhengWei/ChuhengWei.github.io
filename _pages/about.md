@@ -23,23 +23,28 @@ Education
 * Ph.D in University of California-Riverside, Riverside,CA US, 2022-
 
 
-Getting started
+News
 ======
-second
+- [07/2024] One Paper is accepted at IEEE Intelligent Transportation Systems Conference (ITSC 2024)
+[//]: # (Site-wide configuration)
 
-Site-wide configuration
-------
-The main 
+[//]: # (------)
 
-Create content & metadata
-------
-For site content, 
+[//]: # (The main )
 
-**Markdown generator**
+[//]: # ()
+[//]: # (Create content & metadata)
 
-I have also
+[//]: # (------)
 
-How to edit your site's GitHub repository
-------
+[//]: # (For site content, )
+
+[//]: # ()
+[//]: # (**Markdown generator**)
+
+[//]: # ()
+[//]: # (I have also)
+
+
 
 
