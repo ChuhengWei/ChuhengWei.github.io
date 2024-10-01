@@ -26,6 +26,12 @@ Education
 News
 ======
 - [07/2024] One Paper is accepted at IEEE Intelligent Transportation Systems Conference (ITSC 2024)
+- [07/2024] Received the Esther F. Hays Graduate Fellowship!
+- [05/2024] One Paper is accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) AICity Workshop
+- [05/2024] One Paper is accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) UG2+ Workshop
+
+
+
 [//]: # (Site-wide configuration)
 
 [//]: # (------)
