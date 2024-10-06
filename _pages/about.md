@@ -32,10 +32,10 @@ News
 - [01/2024] [One Paper](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by FISTS 2024
 - [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by IRC 2023
 - [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by ITSC 2023
-- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), ECE, UCR.
-- [09/2022] Began PhD studies at the Department of Electrical and Computer Engineering, University of California, Riverside.
-- [10/2022] Graduated from the University of Warwick with an MSc in Smart, Connected and Autonomous Vehicles.
-- [10/2021] Started the MSc program in Smart, Connected and Autonomous Vehicles [(SCAV)](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the University of Warwick.
+- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), [ECE](https://www.ece.ucr.edu/), [UCR](https://www.ucr.edu/).
+- [09/2022] Began PhD studies at the [University of California, Riverside (UCR)](https://www.ucr.edu/).
+- [10/2022] Graduated from the [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/).
+- [10/2021] Started the MSc program in [Smart, Connected and Autonomous Vehicles (SCAV)](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the [University of Warwick](https://warwick.ac.uk/).
 
 Professional Service
 ======
