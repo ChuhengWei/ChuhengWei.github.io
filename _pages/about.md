@@ -25,18 +25,25 @@ Education
 
 News
 ======
-- [07/2024] One Paper is accepted at IEEE Intelligent Transportation Systems Conference (ITSC 2024)
-- [07/2024] Received the Esther F. Hays Graduate Fellowship!
-- [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html)is accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) AICity Workshop
-- [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) is accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) UG2+ Workshop
-- [01/2024] [One Paper](https://ieeexplore.ieee.org/abstract/document/10485546) is accepted at IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
-- [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) is accepted at 2023 Seventh IEEE International Conference on Robotic Computing (IRC)
-- [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) is accepted at IEEE Intelligent Transportation Systems Conference (ITSC 2023)
-- [01/2023] Started as a research assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), ECE, UCR.
+- [07/2024] RAF-RCNN accepted by ITSC 2024
+- [07/2024] Awwarded UCR Esther F. Hays Graduate Fellowship
+- [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by AI City Workshop
+- [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by (CVPR 2024) UG2+ Workshop
+- [01/2024] [One Paper](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by FISTS 2024
+- [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by IRC 2023
+- [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by ITSC 2023
+- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), ECE, UCR.
 - [09/2022] Began PhD studies at the Department of Electrical and Computer Engineering, University of California, Riverside.
 - [10/2022] Graduated from the University of Warwick with an MSc in Smart, Connected and Autonomous Vehicles.
 - [10/2021] Started the MSc program in Smart, Connected and Autonomous Vehicles [(SCAV)](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the University of Warwick.
 
+Professional Service
+======
+- Technical Committees:
+    - 1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movements @ ICRA 2024
+    - 1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics @ ECCV 2024
+- Journal Reviewer:
+- Conference Reviewer:
 
 [//]: # (Site-wide configuration)
 
