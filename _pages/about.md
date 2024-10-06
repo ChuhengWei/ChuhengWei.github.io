@@ -39,12 +39,24 @@ News
 
 Professional Service
 ======
-- Technical Committees:
-    - 1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movements @ ICRA 2024
-    - 1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics @ ECCV 2024
-- Journal Reviewer:
-- Conference Reviewer:
 
+[//]: # (- Technical Committees:)
+
+[//]: # (  - 1st Workshop on Wearable Intelligence for Healthcare Robotics &#40;WIHR&#41;: from Brain Activity to Body Movements @ ICRA 2024)
+
+[//]: # (  - 1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics @ ECCV 2024)
+- Journal Reviewer:
+  - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
+  - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
+  - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
+  - [PeerJ Computer Science](https://peerj.com/computer-science/)
+- Conference Reviewer:
+  - IEEE Intelligent Transportation Systems Conference (ITSC) 2024,2023
+  - IEEE Intelligent Vehicles Symposium (IV) 2024 
+  - European Conference on Computer Vision (ECCV) 2024 
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+  - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS) 2024
+  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
 [//]: # (Site-wide configuration)
 
 [//]: # (------)
