@@ -25,13 +25,13 @@ Education
 
 News
 ======
-- [07/2024] RAF-RCNN accepted by ITSC 2024
+- [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awwarded UCR Esther F. Hays Graduate Fellowship
-- [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by AI City Workshop
-- [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by (CVPR 2024) UG2+ Workshop
-- [01/2024] [One Paper](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by FISTS 2024
-- [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by IRC 2023
-- [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by ITSC 2023
+- [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [AI City Workshop](https://www.aicitychallenge.org/)
+- [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [UG2+ Workshop](https://cvpr2024ug2challenge.github.io/)
+- [01/2024] [One Paper](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by [FISTS 2024](https://2023.ieee-itsc.org/)
+- [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by [IRC 2023](https://www.ieee-irc.org/)
+- [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by [ITSC 2023](https://2023.ieee-itsc.org/)
 - [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), [ECE](https://www.ece.ucr.edu/), [UCR](https://www.ucr.edu/).
 - [09/2022] Began PhD studies at the [University of California, Riverside (UCR)](https://www.ucr.edu/).
 - [10/2022] Graduated from the [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/).
@@ -54,9 +54,9 @@ Professional Service
   - IEEE Intelligent Transportation Systems Conference (ITSC) 2024,2023
   - IEEE Intelligent Vehicles Symposium (IV) 2024 
   - European Conference on Computer Vision (ECCV) 2024 
+  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS) 2024
-  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
 [//]: # (Site-wide configuration)
 
 [//]: # (------)
