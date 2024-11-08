@@ -20,7 +20,7 @@ Education
 ======
 * B.S. in Communication University, Beijing, China, 2013-2017
 * M.S. in University of Warwick, Coventry, UK, 2021-2022
-* Ph.D in University of California-Riverside, Riverside,CA US, 2022-
+* Ph.D in University of California-Riverside, Riverside,CA US, 2022-Present
 
 
 News
@@ -63,22 +63,7 @@ Professional Service
 
 [//]: # (Site-wide configuration)
 
-[//]: # (------)
 
-[//]: # (The main )
-
-[//]: # ()
-[//]: # (Create content & metadata)
-
-[//]: # (------)
-
-[//]: # (For site content, )
-
-[//]: # ()
-[//]: # (**Markdown generator**)
-
-[//]: # ()
-[//]: # (I have also)
 
 
 
