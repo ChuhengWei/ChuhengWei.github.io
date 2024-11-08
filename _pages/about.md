@@ -25,6 +25,7 @@ Education
 
 News
 ======
+- [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
 - [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [AI City Workshop](https://www.aicitychallenge.org/)
@@ -51,11 +52,13 @@ Professional Service
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [PeerJ Computer Science](https://peerj.com/computer-science/)
 - Conference Reviewer:
+
+  - IEEE International Conference on Robotics and Automation (ICRA) 2025
   - IEEE Intelligent Transportation Systems Conference (ITSC) 2024,2023
   - IEEE Intelligent Vehicles Symposium (IV) 2024 
   - European Conference on Computer Vision (ECCV) 2024 
-  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS) 2024
 
 [//]: # (Site-wide configuration)
