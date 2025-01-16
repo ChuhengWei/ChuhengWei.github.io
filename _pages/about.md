@@ -25,6 +25,8 @@ Education
 
 News
 ======
+- [12/2024] Passed Oral Exam and advanced to PhD candidacy.
+- [10/2024] Three papers accepted by TRB 2025 and will be presented at the TRB 2025 Annual Meeting.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
@@ -41,11 +43,14 @@ News
 Professional Service
 ======
 
-[//]: # (- Technical Committees:)
 
-[//]: # (  - 1st Workshop on Wearable Intelligence for Healthcare Robotics &#40;WIHR&#41;: from Brain Activity to Body Movements @ ICRA 2024)
+- Technical Committees:
+  - [1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movements](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
+  - [1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
+  - [Data-Driven Learning for Intelligent Vehicle Applications Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
+  - [Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving (DriveX)](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
 
-[//]: # (  - 1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics @ ECCV 2024)
+  
 - Journal Reviewer:
   - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
   - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
