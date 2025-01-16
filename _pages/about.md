@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuheng Wei, a second-year Ph.D. student in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw).
+I am Chuheng Wei, a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw).
 
 My research primarily focuses on the perception aspects of autonomous driving. This includes vehicle trajectory prediction, object detection, personalized driving models, and cooperative perception in V2I systems. I am deeply interested in how these technologies can enhance the safety and efficiency of autonomous vehicles.
 
@@ -26,7 +26,7 @@ Education
 News
 ======
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
-- [10/2024] Three papers accepted by TRB 2025 and will be presented at the TRB 2025 Annual Meeting.  
+- [10/2024] [12/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
