@@ -26,7 +26,7 @@ Education
 News
 ======
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
-- [10/2024] [12/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
+- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
@@ -56,6 +56,7 @@ Professional Service
   - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [PeerJ Computer Science](https://peerj.com/computer-science/)
+  - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer:
 
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
