@@ -54,14 +54,14 @@ Professional Service
 - Journal Reviewer:
   - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
   - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
+  - [IEEE Open Journal of Intelligent Transportation Systems(OJ-ITS)](https://ieee-itss.org/pub/oj-its/)
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [PeerJ Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer:
-
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
-  - IEEE Intelligent Transportation Systems Conference (ITSC) 2024,2023
-  - IEEE Intelligent Vehicles Symposium (IV) 2024 
+  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
+  - IEEE Intelligent Vehicles Symposium (IV) 2024,2025
   - European Conference on Computer Vision (ECCV) 2024 
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
