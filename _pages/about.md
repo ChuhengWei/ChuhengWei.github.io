@@ -25,6 +25,7 @@ Education
 
 News
 ======
+- [01/2025] Award Second Place Prize in [USDOT Intersection Safety Challenge (Stage 1B)](/https://its.dot.gov/isc/).
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
 - [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
@@ -45,10 +46,10 @@ Professional Service
 
 
 - Technical Committees:
-  - [1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movements](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
-  - [1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
-  - [Data-Driven Learning for Intelligent Vehicle Applications Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
-  - [Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving (DriveX)](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
+  - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
+  - [1st Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
+  - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
+  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
 
   
 - Journal Reviewer:
@@ -58,6 +59,7 @@ Professional Service
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [PeerJ Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
+  - 
 - Conference Reviewer:
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
   - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
