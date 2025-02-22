@@ -46,10 +46,10 @@ Professional Service
 
 
 - Technical Committees:
+  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
+  - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
   - [1st Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
-  - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
-  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
 
   
 - Journal Reviewer:
