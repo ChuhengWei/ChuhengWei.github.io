@@ -18,9 +18,9 @@ I earned my Bachelor of Engineering in Digital Media Technology from Communicati
 
 Education
 ======
-* B.S. in Communication University, Beijing, China, 2013-2017
-* M.S. in University of Warwick, Coventry, UK, 2021-2022
-* Ph.D in University of California-Riverside, Riverside,CA US, 2022-Present
+* Ph.D in University of California-Riverside, Riverside, CA US, 2022-Present.
+* M.S. in University of Warwick, Coventry, UK, 2021-2022.
+* B.S. in Communication University of China, Beijing, China, 2013-2017.
 
 
 News
@@ -62,8 +62,8 @@ Professional Service
   - 
 - Conference Reviewer:
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
-  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
   - IEEE Intelligent Vehicles Symposium (IV) 2024,2025
+  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
   - European Conference on Computer Vision (ECCV) 2024 
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
