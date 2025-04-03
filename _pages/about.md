@@ -10,7 +10,7 @@ redirect_from:
 
 I am Chuheng Wei, a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw).
 
-My research primarily focuses on the perception aspects of autonomous driving. This includes vehicle trajectory prediction, object detection, personalized driving models, and cooperative perception in V2I systems. I am deeply interested in how these technologies can enhance the safety and efficiency of autonomous vehicles.
+My research primarily focuses on the perception aspects of autonomous driving. This includes vehicle trajectory prediction, object detection, personalized driving models, and cooperative perception in V2X systems. 
 
 I earned my Bachelor of Engineering in Digital Media Technology from Communication University of China under the guidance of Professor [Dr. Wenhui Zhang](https://ices.cuc.edu.cn/2019/1014/c5332a142078/pagem.htm). Following that, I completed my Master degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
 
@@ -25,11 +25,13 @@ Education
 
 News
 ======
-- [01/2025] Award Second Place Prize in [USDOT Intersection Safety Challenge (Stage 1B)](/https://its.dot.gov/isc/).
+- [03/2025] One paper (Sensor Fusion Survey)accepted by [IV 2025](https://ieee-iv.org/2025/).
+- [03/2025] [One paper (VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
+- [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize.
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
 - [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
-- [07/2024] RAF-RCNN accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
+- [07/2024] [RAF-RCNN](https://ieeexplore.ieee.org/abstract/document/10920096) accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
 - [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [AI City Workshop](https://www.aicitychallenge.org/)
 - [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [UG2+ Workshop](https://cvpr2024ug2challenge.github.io/)
