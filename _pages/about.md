@@ -67,7 +67,7 @@ Professional Service
   - IEEE Intelligent Vehicles Symposium (IV) 2024,2025
   - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
   - European Conference on Computer Vision (ECCV) 2024 
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2025
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS) 2024
 
