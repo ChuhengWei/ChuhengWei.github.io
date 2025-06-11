@@ -18,15 +18,16 @@ I earned my Bachelor of Engineering in Digital Media Technology from Communicati
 
 Education
 ======
-* Ph.D in University of California-Riverside, Riverside, CA US, 2022-Present.
+* Ph.D in University of California, Riverside, CA US, 2022-Present.
 * M.S. in University of Warwick, Coventry, UK, 2021-2022.
 * B.S. in Communication University of China, Beijing, China, 2013-2017.
 
 
 News
 ======
-- [03/2025] One paper (Sensor Fusion Survey)accepted by [IV 2025](https://ieee-iv.org/2025/).
-- [03/2025] [One paper (VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
+- [06/2025] HeCoFuse ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
+- [03/2025] One paper (Sensor Fusion Survey) accepted by [IV 2025](https://ieee-iv.org/2025/).
+- [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
 - [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize.
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
 - [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
@@ -48,7 +49,7 @@ Professional Service
 
 
 - Technical Committees:
-  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025 (Organizer)
+  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025 (Organizer)
   - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
   - [1st Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
@@ -65,7 +66,7 @@ Professional Service
 - Conference Reviewer:
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
   - IEEE Intelligent Vehicles Symposium (IV) 2024,2025
-  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024
+  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024,2025
   - European Conference on Computer Vision (ECCV) 2024 
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2025
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
