@@ -25,6 +25,9 @@ Education
 
 News
 ======
+- [07/2025] EKI-GAN accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
+- [07/2025] HeCoFuse and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
+- [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
 - [06/2025] HeCoFuse ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
 - [03/2025] One paper (Sensor Fusion Survey) accepted by [IV 2025](https://ieee-iv.org/2025/).
 - [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
@@ -33,7 +36,7 @@ News
 - [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] [RAF-RCNN](https://ieeexplore.ieee.org/abstract/document/10920096) accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
-- [07/2024] Awarded UCR Esther F. Hays Graduate Fellowship
+- [07/2024] Awarded 2024 UCR Esther F. Hays Graduate Fellowship
 - [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [AI City Workshop](https://www.aicitychallenge.org/)
 - [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [UG2+ Workshop](https://cvpr2024ug2challenge.github.io/)
 - [01/2024] [Dilemma Zone Survey](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by [FISTS 2024](https://2023.ieee-itsc.org/)
