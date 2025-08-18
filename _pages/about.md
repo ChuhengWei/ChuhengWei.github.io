@@ -8,28 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuheng Wei, a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw).
+I am Chuheng Wei, a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw). I completed my Master’s degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
 
-My research primarily focuses on the perception aspects of autonomous driving. This includes vehicle trajectory prediction, object detection, personalized driving models, and cooperative perception in V2X systems. 
-
-I earned my Bachelor of Engineering in Digital Media Technology from Communication University of China under the guidance of Professor [Dr. Wenhui Zhang](https://ices.cuc.edu.cn/2019/1014/c5332a142078/pagem.htm). Following that, I completed my Master degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
+My research focuses on autonomous driving perception and planning under challenging conditions. Specifically, I work on vision-based and multi-sensor fusion perception in adverse environments, cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios such as congested intersections and yellow-light dilemma zones, as well as personalized autonomous driving and vehicle re-identification.
 
 
 
 Education
 ======
-* Ph.D in University of California, Riverside, CA US, 2022-Present.
+* Ph.D in University of California, Riverside, CA, US, 2022-Present.
 * M.S. in University of Warwick, Coventry, UK, 2021-2022.
 * B.S. in Communication University of China, Beijing, China, 2013-2017.
 
 
 News
 ======
+- [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
 - [07/2025] EKI-GAN accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
-- [07/2025] HeCoFuse and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
+- [07/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
 - [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
-- [06/2025] HeCoFuse ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
-- [03/2025] One paper (Sensor Fusion Survey) accepted by [IV 2025](https://ieee-iv.org/2025/).
+- [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
+- [03/2025] [One paper (Sensor Fusion Survey)](https://ieeexplore.ieee.org/document/11097396) accepted by [IV 2025](https://ieee-iv.org/2025/).
 - [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
 - [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize.
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
