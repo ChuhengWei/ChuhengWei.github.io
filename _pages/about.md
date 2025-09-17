@@ -23,7 +23,7 @@ Education
 
 News
 ======
-- [09/2025] Cooperative Perception Survey accepted in Proceedings of the IEEE Journal (IF:25.9)
+- [09/2025] Cooperative Perception Survey accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
 - [07/2025] EKI-GAN accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
 - [07/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
