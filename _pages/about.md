@@ -66,7 +66,6 @@ Professional Service
   - [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
   - [PeerJ Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
-  - 
 - Conference Reviewer:
   - Annual AAAI Conference on Artificial Intelligence (AAAI) 2026
   - IEEE International Conference on Robotics and Automation (ICRA) 2025
