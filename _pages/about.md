@@ -23,6 +23,7 @@ Education
 
 News
 ======
+- [09/2025] Started internship as Applied Scientist Intern at Amazon
 - [09/2025] Cooperative Perception Survey accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
 - [07/2025] EKI-GAN accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
@@ -55,7 +56,7 @@ Professional Service
   - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025 (Organizer)
   - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
-  - [1st Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
+  - [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
   
 - Journal Reviewer:
@@ -64,7 +65,7 @@ Professional Service
   - [IEEE Open Journal of Intelligent Transportation Systems(OJ-ITS)](https://ieee-itss.org/pub/oj-its/)
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
-  - [PeerJ Computer Science](https://peerj.com/computer-science/)
+  - [Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer:
   - Annual AAAI Conference on Artificial Intelligence (AAAI) 2026
