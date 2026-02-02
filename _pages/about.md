@@ -172,15 +172,15 @@ Professional Service
   - [Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer:
-  - Annual AAAI Conference on Artificial Intelligence (AAAI) 2026
-  - IEEE International Conference on Robotics and Automation (ICRA) 2025
-  - IEEE Intelligent Vehicles Symposium (IV) 2024,2025
-  - IEEE Intelligent Transportation Systems Conference (ITSC) 2023,2024,2025
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
-  - European Conference on Computer Vision (ECCV) 2024 
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2025
-  - IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2024
-  - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS) 2024
+  - Annual AAAI Conference on Artificial Intelligence (AAAI) 
+  - IEEE International Conference on Robotics and Automation (ICRA) 
+  - IEEE Intelligent Vehicles Symposium (IV) 
+  - IEEE Intelligent Transportation Systems Conference (ITSC)
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+  - European Conference on Computer Vision (ECCV) 
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+  - IEEE International Conference on Vehicular Electronics and Safety (ICVES)
+  - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
 
 [//]: # (Site-wide configuration)
 
