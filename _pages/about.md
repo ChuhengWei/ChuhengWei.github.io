@@ -54,7 +54,7 @@ News
 
 <style>
 .news-scroll {
-  max-height: 320px;
+  max-height: 480px;
   overflow-y: auto;
   padding: 20px;
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
