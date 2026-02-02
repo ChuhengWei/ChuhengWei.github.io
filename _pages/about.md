@@ -24,10 +24,12 @@ Education
 News
 ======
 <div class="news-scroll" markdown="1">
+- [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
+- [01/2025] VLM Dataset Survey accepted by IEEE IV 2026
 - [09/2025] Started internship as Applied Scientist Intern at Amazon
-- [09/2025] Cooperative Perception Survey accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
+- [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
-- [07/2025] EKI-GAN accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
+- [07/2025] [EKI-GAN](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC) accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
 - [07/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
 - [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
 - [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
