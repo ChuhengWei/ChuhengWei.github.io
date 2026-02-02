@@ -57,7 +57,7 @@ News
   padding: 20px;
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   border: 1px solid #e5e7eb;
-  border-left: 4px solid #2563eb;
+  border-left: 4px solid #2567eb;
   border-radius: 0 12px 12px 0;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
 }
