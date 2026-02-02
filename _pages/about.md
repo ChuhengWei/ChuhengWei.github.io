@@ -23,6 +23,7 @@ Education
 
 News
 ======
+<div class="news-scroll" markdown="1">
 - [09/2025] Started internship as Applied Scientist Intern at Amazon
 - [09/2025] Cooperative Perception Survey accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
@@ -31,10 +32,10 @@ News
 - [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
 - [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
 - [03/2025] [One paper (Sensor Fusion Survey)](https://ieeexplore.ieee.org/document/11097396) accepted by [IV 2025](https://ieee-iv.org/2025/).
-- [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci) 
+- [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci)
 - [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize.
 - [12/2024] Passed Oral Exam and advanced to PhD candidacy.
-- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.  
+- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] [RAF-RCNN](https://ieeexplore.ieee.org/abstract/document/10920096) accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded 2024 UCR Esther F. Hays Graduate Fellowship
@@ -47,6 +48,36 @@ News
 - [09/2022] Began PhD studies at the [University of California, Riverside (UCR)](https://www.ucr.edu/).
 - [10/2022] Graduated from the [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/).
 - [10/2021] Started the MSc program in [Smart, Connected and Autonomous Vehicles (SCAV)](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the [University of Warwick](https://warwick.ac.uk/).
+</div>
+
+<style>
+.news-scroll {
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+</style>
 
 Professional Service
 ======
