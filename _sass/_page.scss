@@ -52,11 +52,14 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $primary-color;
+    display: inline-block;
+    margin-bottom: 1em;
   }
 
   p, li, dl {
     font-size: 1em;
+    color: $dark-gray;
   }
 
   /* paragraph indents */
@@ -73,13 +76,17 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
+    border-bottom: 1px solid transparent;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      border-bottom-color: $link-color;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 15px rgba(#000, 0.2);
       }
     }
   }

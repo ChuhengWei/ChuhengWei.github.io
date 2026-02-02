@@ -175,14 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
+    margin: 0 0.75rem;
+    padding: 0.5rem 0.25rem;
     color: $masthead-link-color;
     text-decoration: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    letter-spacing: 0.01em;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -193,12 +196,13 @@
     position: absolute;
     height: 100%;
     right: 0;
-    padding: 0 0.5rem;
+    padding: 0 0.75rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background: linear-gradient(135deg, $primary-color 0%, darken($primary-color, 8%) 100%);
     color: #fff;
     cursor: pointer;
+    border-radius: $border-radius;
   }
 
   .visible-links {
@@ -209,10 +213,12 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        font-weight: 700;
 
         a {
           margin-left: 0;
+          font-size: 1.1rem;
+          color: $darker-gray;
         }
       }
 
@@ -230,10 +236,11 @@
         content: "";
         position: absolute;
         left: 0;
-        bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        bottom: -2px;
+        height: 3px;
+        background: $primary-color;
         width: 100%;
+        border-radius: 2px;
         -webkit-transition: $global-transition;
         transition: $global-transition;
         -webkit-transform: scaleX(0);
@@ -254,20 +261,21 @@
     top: 100%;
     right: 0;
     margin-top: 15px;
-    padding: 5px;
+    padding: 8px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.12);
 
     a {
       margin: 0;
-      padding: 10px 20px;
+      padding: 12px 20px;
       font-size: $type-size-5;
+      border-radius: 6px;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        color: $primary-color;
+        background: rgba($primary-color, 0.08);
       }
     }
 

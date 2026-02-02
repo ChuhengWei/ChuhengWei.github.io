@@ -52,30 +52,101 @@ News
 
 <style>
 .news-scroll {
-  max-height: 300px;
+  max-height: 320px;
   overflow-y: auto;
-  padding-right: 10px;
-  border: 1px solid #e0e0e0;
-  border-radius: 5px;
-  padding: 15px;
+  padding: 20px;
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #2563eb;
+  border-radius: 0 12px 12px 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.news-scroll ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-scroll li {
+  padding: 10px 0;
+  border-bottom: 1px solid #e5e7eb;
+  transition: all 0.2s ease;
+}
+
+.news-scroll li:last-child {
+  border-bottom: none;
+}
+
+.news-scroll li:hover {
+  padding-left: 8px;
+  background: rgba(37, 99, 235, 0.03);
+  border-radius: 6px;
 }
 
 .news-scroll::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 
 .news-scroll::-webkit-scrollbar-track {
-  background: #f1f1f1;
-  border-radius: 4px;
+  background: #f1f5f9;
+  border-radius: 3px;
 }
 
 .news-scroll::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 4px;
+  background: linear-gradient(180deg, #94a3b8 0%, #64748b 100%);
+  border-radius: 3px;
 }
 
 .news-scroll::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: linear-gradient(180deg, #64748b 0%, #475569 100%);
+}
+
+/* Education section styling */
+.page__content ul {
+  padding-left: 0;
+}
+
+.page__content > ul > li {
+  list-style: none;
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 12px;
+}
+
+.page__content > ul > li:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 8px;
+  height: 8px;
+  background: #2563eb;
+  border-radius: 50%;
+}
+
+/* Nested list styling for Professional Service */
+.page__content ul ul {
+  margin-top: 8px;
+  padding-left: 20px;
+}
+
+.page__content ul ul li {
+  list-style: none;
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 6px;
+}
+
+.page__content ul ul li:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 5px;
+  height: 5px;
+  background: #94a3b8;
+  border-radius: 50%;
 }
 </style>
 
