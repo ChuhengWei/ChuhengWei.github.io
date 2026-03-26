@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuheng Wei"
+title: " "
 excerpt: "About me"
 author_profile: false
 redirect_from:
@@ -8,36 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-header">
-  <div class="profile-photo-wrap">
-    <img src="/images/kxm.jpg" alt="Chuheng Wei" class="profile-photo">
-  </div>
-  <div class="profile-info">
+<div class="profile-hero">
+  <div class="profile-left">
     <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-title">Ph.D. Candidate &nbsp;·&nbsp; UC Riverside ECE</p>
-    <p class="profile-location"><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp;Riverside, California, USA</p>
-    <div class="profile-links">
-      <a href="mailto:chuheng.wei@email.ucr.edu" class="profile-link"><i class="fas fa-envelope"></i> Email</a>
-      <a href="https://www.linkedin.com/in/chuheng-wei-520823222/" class="profile-link" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao" class="profile-link" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-      <a href="https://www.researchgate.net/profile/Chuheng-Wei" class="profile-link" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a>
-      <a href="https://github.com/ChuhengWei" class="profile-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-      <a href="https://orcid.org/0000-0002-0747-9398" class="profile-link" target="_blank"><i class="ai ai-orcid"></i> ORCID</a>
+    <p class="profile-subtitle">Ph.D. Candidate &nbsp;·&nbsp; Electrical &amp; Computer Engineering</p>
+    <p class="profile-affil"><a href="https://www.ucr.edu/" target="_blank">University of California, Riverside</a></p>
+
+    <p class="profile-bio">
+      I am a third-year Ph.D. candidate in the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank">Transportation System Research (TSR) Group</a>
+      within the Department of Electrical and Computer Engineering at UC Riverside,
+      co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
+      and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>.
+      I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK,
+      under the supervision of <a href="https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224" target="_blank">Dr. Valentina Donzella</a>.
+    </p>
+    <p class="profile-bio">
+      My research focuses on autonomous driving perception and planning under challenging conditions —
+      including vision-based and multi-sensor fusion perception in adverse environments,
+      cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios,
+      as well as personalized autonomous driving and vehicle re-identification.
+    </p>
+  </div>
+
+  <div class="profile-right">
+    <img src="/images/kxm.jpg" alt="Chuheng Wei" class="profile-photo">
+    <div class="profile-icons">
+      <a href="mailto:chuheng.wei@email.ucr.edu" title="Email"><i class="fas fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/chuheng-wei-520823222/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+      <a href="https://www.researchgate.net/profile/Chuheng-Wei" title="ResearchGate" target="_blank"><i class="fab fa-researchgate"></i></a>
+      <a href="https://github.com/ChuhengWei" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://orcid.org/0000-0002-0747-9398" title="ORCID" target="_blank"><i class="ai ai-orcid"></i></a>
     </div>
   </div>
 </div>
 
-I am a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw). I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
-
-My research focuses on autonomous driving perception and planning under challenging conditions. Specifically, I work on vision-based and multi-sensor fusion perception in adverse environments, cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios such as congested intersections and yellow-light dilemma zones, as well as personalized autonomous driving and vehicle re-identification.
-
-
+---
 
 Education
 ======
-* Ph.D in University of California, Riverside, CA, US, 2022-Present.
-* M.S. in University of Warwick, Coventry, UK, 2021-2022.
-* B.S. in Communication University of China, Beijing, China, 2013-2017.
+* Ph.D in University of California, Riverside, CA, US, 2022–Present.
+* M.S. in University of Warwick, Coventry, UK, 2021–2022.
+* B.S. in Communication University of China, Beijing, China, 2013–2017.
 
 
 News
@@ -46,17 +58,17 @@ News
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
 - [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
 - [09/2025] Started internship as Applied Scientist Intern at Amazon
-- [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
+- [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935) (IF: 25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
 - [07/2025] [EKI-GAN](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC) accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
 - [07/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
 - [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
-- [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/).
-- [03/2025] [One paper (Sensor Fusion Survey)](https://ieeexplore.ieee.org/document/11097396) accepted by [IV 2025](https://ieee-iv.org/2025/).
+- [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/)
+- [03/2025] [One paper (Sensor Fusion Survey)](https://ieeexplore.ieee.org/document/11097396) accepted by [IV 2025](https://ieee-iv.org/2025/)
 - [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci)
-- [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize.
-- [12/2024] Passed Oral Exam and advanced to PhD candidacy.
-- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation.
+- [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize
+- [12/2024] Passed Oral Exam and advanced to PhD candidacy
+- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation
 - [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
 - [07/2024] [RAF-RCNN](https://ieeexplore.ieee.org/abstract/document/10920096) accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
 - [07/2024] Awarded 2024 UCR Esther F. Hays Graduate Fellowship
@@ -65,201 +77,15 @@ News
 - [01/2024] [Dilemma Zone Survey](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by [FISTS 2024](https://2023.ieee-itsc.org/)
 - [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by [IRC 2023](https://www.ieee-irc.org/)
 - [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by [ITSC 2023](https://2023.ieee-itsc.org/)
-- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), [ECE](https://www.ece.ucr.edu/), [UCR](https://www.ucr.edu/).
-- [09/2022] Began PhD studies at the [University of California, Riverside (UCR)](https://www.ucr.edu/).
-- [10/2022] Graduated from the [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/).
-- [10/2021] Started the MSc program in [Smart, Connected and Autonomous Vehicles (SCAV)](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the [University of Warwick](https://warwick.ac.uk/).
+- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), [ECE](https://www.ece.ucr.edu/), [UCR](https://www.ucr.edu/)
+- [09/2022] Began PhD studies at [UC Riverside](https://www.ucr.edu/)
+- [10/2022] Graduated from [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/)
+- [10/2021] Started MSc in [Smart, Connected and Autonomous Vehicles](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the [University of Warwick](https://warwick.ac.uk/)
 </div>
 
-<style>
-/* ── Profile Header ───────────────────────────────────────────── */
-.profile-header {
-  display: flex;
-  align-items: center;
-  gap: 40px;
-  padding: 36px 40px;
-  margin: 0 0 40px 0;
-  background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
-  border: 1px solid #e0e7ff;
-  border-radius: 16px;
-  box-shadow: 0 4px 24px rgba(37, 99, 235, 0.07);
-}
-
-.profile-photo-wrap {
-  flex-shrink: 0;
-}
-
-.profile-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid #fff;
-  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.18);
-  display: block;
-}
-
-.profile-info {
-  flex: 1;
-  min-width: 0;
-}
-
-.profile-name {
-  font-size: 2rem;
-  font-weight: 700;
-  margin: 0 0 4px 0;
-  color: #1e293b;
-  border: none;
-  padding: 0;
-}
-
-.profile-title {
-  font-size: 1rem;
-  color: #475569;
-  margin: 0 0 6px 0;
-}
-
-.profile-location {
-  font-size: 0.9rem;
-  color: #64748b;
-  margin: 0 0 18px 0;
-}
-
-.profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.profile-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 7px 14px;
-  background: #fff;
-  border: 1px solid #c7d2fe;
-  border-radius: 8px;
-  font-size: 0.85rem;
-  color: #2563eb;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.18s ease;
-  white-space: nowrap;
-}
-
-.profile-link:hover {
-  background: #2563eb;
-  color: #fff;
-  border-color: #2563eb;
-  text-decoration: none;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
-}
-
-@media (max-width: 640px) {
-  .profile-header {
-    flex-direction: column;
-    text-align: center;
-    padding: 28px 20px;
-    gap: 20px;
-  }
-  .profile-links {
-    justify-content: center;
-  }
-  .profile-name {
-    font-size: 1.6rem;
-  }
-}
-
-/* ── News scroll box ──────────────────────────────────────────── */
-.news-scroll {
-  max-height: 480px;
-  overflow-y: auto;
-  padding: 20px;
-  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
-  border: 1px solid #e5e7eb;
-  border-left: 4px solid #2563eb;
-  border-radius: 0 12px 12px 0;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-}
-
-.news-scroll ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-scroll li {
-  padding: 10px 0;
-  border-bottom: 1px solid #e5e7eb;
-  transition: all 0.2s ease;
-}
-
-.news-scroll li:last-child {
-  border-bottom: none;
-}
-
-.news-scroll li:hover {
-  padding-left: 8px;
-  background: rgba(37, 99, 235, 0.03);
-  border-radius: 6px;
-}
-
-.news-scroll::-webkit-scrollbar { width: 6px; }
-.news-scroll::-webkit-scrollbar-track { background: #f1f5f9; border-radius: 3px; }
-.news-scroll::-webkit-scrollbar-thumb { background: linear-gradient(180deg, #94a3b8 0%, #64748b 100%); border-radius: 3px; }
-.news-scroll::-webkit-scrollbar-thumb:hover { background: linear-gradient(180deg, #64748b 0%, #475569 100%); }
-
-/* ── Section list styling ─────────────────────────────────────── */
-.page__content ul {
-  padding-left: 0;
-}
-
-.page__content > ul > li {
-  list-style: none;
-  position: relative;
-  padding-left: 24px;
-  margin-bottom: 12px;
-}
-
-.page__content > ul > li:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 10px;
-  width: 8px;
-  height: 8px;
-  background: #2563eb;
-  border-radius: 50%;
-}
-
-.page__content ul ul {
-  margin-top: 8px;
-  padding-left: 20px;
-}
-
-.page__content ul ul li {
-  list-style: none;
-  position: relative;
-  padding-left: 16px;
-  margin-bottom: 6px;
-}
-
-.page__content ul ul li:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 10px;
-  width: 5px;
-  height: 5px;
-  background: #94a3b8;
-  border-radius: 50%;
-}
-</style>
 
 Professional Service
 ======
-
 
 - Technical Committees:
   - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025 (Organizer)
@@ -267,11 +93,10 @@ Professional Service
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
   - [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
-
 - Journal Reviewer:
   - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
   - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
-  - [IEEE Open Journal of Intelligent Transportation Systems(OJ-ITS)](https://ieee-itss.org/pub/oj-its/)
+  - [IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)](https://ieee-itss.org/pub/oj-its/)
   - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
   - [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
   - [Computer Science](https://peerj.com/computer-science/)
@@ -286,3 +111,192 @@ Professional Service
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES)
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
+
+<style>
+/* ── Widen the content area ───────────────────────────────────── */
+.page {
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+#main {
+  max-width: 1080px !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+}
+/* hide the duplicate h1 page title (we render our own) */
+.page__title { display: none; }
+
+/* ── Profile hero ─────────────────────────────────────────────── */
+.profile-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 56px;
+  padding: 12px 0 40px 0;
+}
+
+.profile-left {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-name {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1a202c;
+  margin: 0 0 6px 0;
+  border: none;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.profile-subtitle {
+  font-size: 1rem;
+  color: #4a5568;
+  margin: 0 0 4px 0;
+}
+
+.profile-affil {
+  font-size: 0.95rem;
+  color: #718096;
+  margin: 0 0 24px 0;
+}
+
+.profile-affil a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.profile-affil a:hover { text-decoration: underline; }
+
+.profile-bio {
+  font-size: 0.97rem;
+  line-height: 1.75;
+  color: #374151;
+  margin: 0 0 14px 0;
+}
+
+/* ── Right column: photo + icons ──────────────────────────────── */
+.profile-right {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding-top: 6px;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+}
+
+.profile-icons {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+}
+
+.profile-icons a {
+  color: #64748b;
+  font-size: 1.25rem;
+  text-decoration: none;
+  transition: color 0.15s ease, transform 0.15s ease;
+  display: flex;
+  align-items: center;
+}
+
+.profile-icons a:hover {
+  color: #2563eb;
+  transform: translateY(-2px);
+}
+
+/* ── Responsive ───────────────────────────────────────────────── */
+@media (max-width: 680px) {
+  .profile-hero {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 24px;
+    padding-bottom: 28px;
+  }
+  .profile-right { width: 100%; }
+  .profile-photo { width: 140px; height: 140px; }
+  .profile-name { font-size: 1.7rem; text-align: center; }
+  .profile-subtitle, .profile-affil { text-align: center; }
+}
+
+/* ── News scroll ──────────────────────────────────────────────── */
+.news-scroll {
+  max-height: 480px;
+  overflow-y: auto;
+  padding: 18px 22px;
+  background: #fafafa;
+  border: 1px solid #e5e7eb;
+  border-left: 3px solid #2563eb;
+  border-radius: 0 8px 8px 0;
+}
+
+.news-scroll ul { list-style: none; padding: 0; margin: 0; }
+
+.news-scroll li {
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.93rem;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.news-scroll li:last-child { border-bottom: none; }
+
+.news-scroll::-webkit-scrollbar { width: 5px; }
+.news-scroll::-webkit-scrollbar-track { background: #f1f5f9; }
+.news-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+
+/* ── Section list bullets ─────────────────────────────────────── */
+.page__content ul { padding-left: 0; }
+
+.page__content > ul > li {
+  list-style: none;
+  position: relative;
+  padding-left: 22px;
+  margin-bottom: 10px;
+}
+
+.page__content > ul > li:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 7px;
+  height: 7px;
+  background: #2563eb;
+  border-radius: 50%;
+}
+
+.page__content ul ul { margin-top: 6px; padding-left: 18px; }
+
+.page__content ul ul li {
+  list-style: none;
+  position: relative;
+  padding-left: 14px;
+  margin-bottom: 4px;
+}
+
+.page__content ul ul li:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 5px;
+  height: 5px;
+  background: #94a3b8;
+  border-radius: 50%;
+}
+</style>
