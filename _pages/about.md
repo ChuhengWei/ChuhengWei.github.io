@@ -2,13 +2,32 @@
 permalink: /
 title: "Chuheng Wei"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Chuheng Wei, a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw). I completed my Master’s degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
+<div class="profile-header">
+  <div class="profile-photo-wrap">
+    <img src="/images/kxm.jpg" alt="Chuheng Wei" class="profile-photo">
+  </div>
+  <div class="profile-info">
+    <h1 class="profile-name">Chuheng Wei</h1>
+    <p class="profile-title">Ph.D. Candidate &nbsp;·&nbsp; UC Riverside ECE</p>
+    <p class="profile-location"><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp;Riverside, California, USA</p>
+    <div class="profile-links">
+      <a href="mailto:chuheng.wei@email.ucr.edu" class="profile-link"><i class="fas fa-envelope"></i> Email</a>
+      <a href="https://www.linkedin.com/in/chuheng-wei-520823222/" class="profile-link" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao" class="profile-link" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+      <a href="https://www.researchgate.net/profile/Chuheng-Wei" class="profile-link" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a>
+      <a href="https://github.com/ChuhengWei" class="profile-link" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+      <a href="https://orcid.org/0000-0002-0747-9398" class="profile-link" target="_blank"><i class="ai ai-orcid"></i> ORCID</a>
+    </div>
+  </div>
+</div>
+
+I am a third-year Ph.D. candidate in the [Transportation System Research (TSR) Group](https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction) within the Department of Electrical and Computer Engineering at UC Riverside. I am co-advised by [Dr. Matthew J. Barth](https://intra.ece.ucr.edu/~barth/?_gl=1%2Atxlm05%2A_ga%2AMTIxMTU1MDMyMy4xNjkzOTQ5OTQ0%2A_ga_S8BZQKWST2%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.%2A_ga_Z1RGSBHBF7%2AMTcwMzkzMDI1My41Mi4xLjE3MDM5MzAzMDIuMC4wLjA.) and [Dr. Guoyuan Wu](https://profiles.ucr.edu/app/home/profile/guoyuanw). I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of [Dr. Valentina Donzella](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224).
 
 My research focuses on autonomous driving perception and planning under challenging conditions. Specifically, I work on vision-based and multi-sensor fusion perception in adverse environments, cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios such as congested intersections and yellow-light dilemma zones, as well as personalized autonomous driving and vehicle re-identification.
 
@@ -25,7 +44,7 @@ News
 ======
 <div class="news-scroll" markdown="1">
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
-- [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/) 
+- [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
 - [09/2025] Started internship as Applied Scientist Intern at Amazon
 - [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935)(IF:25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
@@ -53,13 +72,113 @@ News
 </div>
 
 <style>
+/* ── Profile Header ───────────────────────────────────────────── */
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 36px 40px;
+  margin: 0 0 40px 0;
+  background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
+  border: 1px solid #e0e7ff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(37, 99, 235, 0.07);
+}
+
+.profile-photo-wrap {
+  flex-shrink: 0;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.18);
+  display: block;
+}
+
+.profile-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-name {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 4px 0;
+  color: #1e293b;
+  border: none;
+  padding: 0;
+}
+
+.profile-title {
+  font-size: 1rem;
+  color: #475569;
+  margin: 0 0 6px 0;
+}
+
+.profile-location {
+  font-size: 0.9rem;
+  color: #64748b;
+  margin: 0 0 18px 0;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.profile-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  background: #fff;
+  border: 1px solid #c7d2fe;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.18s ease;
+  white-space: nowrap;
+}
+
+.profile-link:hover {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+}
+
+@media (max-width: 640px) {
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+    padding: 28px 20px;
+    gap: 20px;
+  }
+  .profile-links {
+    justify-content: center;
+  }
+  .profile-name {
+    font-size: 1.6rem;
+  }
+}
+
+/* ── News scroll box ──────────────────────────────────────────── */
 .news-scroll {
   max-height: 480px;
   overflow-y: auto;
   padding: 20px;
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   border: 1px solid #e5e7eb;
-  border-left: 4px solid #2567eb;
+  border-left: 4px solid #2563eb;
   border-radius: 0 12px 12px 0;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
 }
@@ -86,25 +205,12 @@ News
   border-radius: 6px;
 }
 
-.news-scroll::-webkit-scrollbar {
-  width: 6px;
-}
+.news-scroll::-webkit-scrollbar { width: 6px; }
+.news-scroll::-webkit-scrollbar-track { background: #f1f5f9; border-radius: 3px; }
+.news-scroll::-webkit-scrollbar-thumb { background: linear-gradient(180deg, #94a3b8 0%, #64748b 100%); border-radius: 3px; }
+.news-scroll::-webkit-scrollbar-thumb:hover { background: linear-gradient(180deg, #64748b 0%, #475569 100%); }
 
-.news-scroll::-webkit-scrollbar-track {
-  background: #f1f5f9;
-  border-radius: 3px;
-}
-
-.news-scroll::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #94a3b8 0%, #64748b 100%);
-  border-radius: 3px;
-}
-
-.news-scroll::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #64748b 0%, #475569 100%);
-}
-
-/* Education section styling */
+/* ── Section list styling ─────────────────────────────────────── */
 .page__content ul {
   padding-left: 0;
 }
@@ -127,7 +233,6 @@ News
   border-radius: 50%;
 }
 
-/* Nested list styling for Professional Service */
 .page__content ul ul {
   margin-top: 8px;
   padding-left: 20px;
@@ -162,7 +267,7 @@ Professional Service
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
   - [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
-  
+
 - Journal Reviewer:
   - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
   - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
@@ -172,20 +277,12 @@ Professional Service
   - [Computer Science](https://peerj.com/computer-science/)
   - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer:
-  - Annual AAAI Conference on Artificial Intelligence (AAAI) 
-  - IEEE International Conference on Robotics and Automation (ICRA) 
-  - IEEE Intelligent Vehicles Symposium (IV) 
+  - Annual AAAI Conference on Artificial Intelligence (AAAI)
+  - IEEE International Conference on Robotics and Automation (ICRA)
+  - IEEE Intelligent Vehicles Symposium (IV)
   - IEEE Intelligent Transportation Systems Conference (ITSC)
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
-  - European Conference on Computer Vision (ECCV) 
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  - European Conference on Computer Vision (ECCV)
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES)
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
-
-[//]: # (Site-wide configuration)
-
-
-
-
-
-
