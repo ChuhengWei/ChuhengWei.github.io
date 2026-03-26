@@ -23,7 +23,7 @@ redirect_from:
       under the supervision of <a href="https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224" target="_blank">Dr. Valentina Donzella</a>.
     </p>
     <p class="profile-bio">
-      My research focuses on autonomous driving perception and planning under challenging conditions —
+      My research focuses on autonomous driving perception and planning under challenging conditions:
       including vision-based and multi-sensor fusion perception in adverse environments,
       cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios,
       as well as personalized autonomous driving and vehicle re-identification.
@@ -124,8 +124,8 @@ Professional Service
 }
 #main {
   max-width: 1080px !important;
-  padding-left: 2em !important;
-  padding-right: 2em !important;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
 }
 /* hide the duplicate h1 page title (we render our own) */
 .page__title { display: none; }
@@ -134,7 +134,7 @@ Professional Service
 .profile-hero {
   display: flex;
   align-items: flex-start;
-  gap: 56px;
+  gap: 36px;
   padding: 12px 0 40px 0;
 }
 
@@ -190,10 +190,11 @@ Professional Service
 }
 
 .profile-photo {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 300px;
   border-radius: 8px;
   object-fit: cover;
+  object-position: center top;
   display: block;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
 }
@@ -227,7 +228,7 @@ Professional Service
     padding-bottom: 28px;
   }
   .profile-right { width: 100%; }
-  .profile-photo { width: 140px; height: 140px; }
+  .profile-photo { width: 160px; height: 200px; }
   .profile-name { font-size: 1.7rem; text-align: center; }
   .profile-subtitle, .profile-affil { text-align: center; }
 }
