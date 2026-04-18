@@ -55,6 +55,7 @@ Education
 News
 ======
 <div class="news-scroll" markdown="1">
+- [04/2026] Delivered an invited talk at Arizona State University on V2X and personalized autonomous driving
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
 - [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
 - [09/2025] Started internship as Applied Scientist Intern at Amazon
