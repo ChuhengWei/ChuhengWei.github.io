@@ -9,9 +9,9 @@ author_profile: true
 <div id="cite-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
   <div style="background:#fff;border-radius:8px;padding:1.5em;max-width:640px;width:90%;position:relative;">
     <button onclick="closeCite()" style="position:absolute;top:0.6em;right:0.8em;background:none;border:none;font-size:1.3em;cursor:pointer;color:#666;">&times;</button>
-    <h3 style="margin:0 0 0.8em;font-size:1em;">BibTeX</h3>
+    <h3 style="margin:0 0 0.8em;font-size:1em;">Cite</h3>
     <pre id="cite-modal-content" style="background:#f4f4f4;border-radius:4px;padding:1em;font-size:0.8em;overflow-x:auto;white-space:pre-wrap;word-break:break-all;margin:0 0 0.8em;"></pre>
-    <button onclick="copyCite()" id="copy-btn" style="padding:5px 16px;background:#1a73e8;color:#fff;border:none;border-radius:4px;font-size:0.85em;font-weight:600;cursor:pointer;">复制</button>
+    <button onclick="copyCite()" id="copy-btn" style="padding:5px 16px;background:#1a73e8;color:#fff;border:none;border-radius:4px;font-size:0.85em;font-weight:600;cursor:pointer;">Copy</button>
   </div>
 </div>
 
@@ -31,7 +31,7 @@ author_profile: true
         <p class="pub-venue"><em>Proceedings of the IEEE</em>, 2025 (Early Access)</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/PIEEE_Cooperative_Perception.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-pieee')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-pieee')">Cite</button>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@ author_profile: true
         <p class="pub-venue"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</em>, 2025, pp. 5315–5324</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/EKI_GAN.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-ekigan')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-ekigan')">Cite</button>
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@ author_profile: true
         <p class="pub-venue"><em>2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)</em>, pp. 1214–1221</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/HeCoFuse.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-hecofuse')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-hecofuse')">Cite</button>
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@ author_profile: true
         <p class="pub-venue"><em>2025 IEEE Intelligent Vehicles Symposium (IV)</em>, pp. 1817–1824</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/IV_Sensor_fusion.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-iv')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-iv')">Cite</button>
         </div>
       </div>
     </div>
@@ -123,7 +123,7 @@ author_profile: true
         <p class="pub-venue"><em>arXiv preprint</em> arXiv:2503.06477, 2025</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/PDB.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-pdb')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-pdb')">Cite</button>
         </div>
       </div>
     </div>
@@ -149,7 +149,7 @@ author_profile: true
         <p class="pub-venue"><em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</em>, 2024, pp. 23–32</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/FCTL.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-fctl')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-fctl')">Cite</button>
         </div>
       </div>
     </div>
@@ -171,7 +171,7 @@ author_profile: true
         <p class="pub-venue"><em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</em>, 2024, pp. 7115–7124</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/KI_GAN.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-kigan')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-kigan')">Cite</button>
         </div>
       </div>
     </div>
@@ -193,7 +193,7 @@ author_profile: true
         <p class="pub-venue"><em>2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)</em>, pp. 1418–1425</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/RAF_RCNN.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-rafrcnn')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-rafrcnn')">Cite</button>
         </div>
       </div>
     </div>
@@ -216,7 +216,7 @@ author_profile: true
         <p class="pub-venue"><em>2024 Forum for Innovative Sustainable Transportation Systems (FISTS)</em>, pp. 1–8</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/Dilemma_Zone.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-dilemma')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2024-dilemma')">Cite</button>
         </div>
       </div>
     </div>
@@ -244,7 +244,7 @@ author_profile: true
         <p class="pub-venue"><em>2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)</em>, pp. 4473–4478</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/Bayer_ITSC2023.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2023-bayer')">引用</button>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2023-bayer')">Cite</button>
         </div>
       </div>
     </div>
@@ -273,7 +273,7 @@ function closeCite() {
 function copyCite() {
   var text = document.getElementById('cite-modal-content').textContent;
   navigator.clipboard.writeText(text).then(function() {
-    document.getElementById('copy-btn').textContent = '已复制 ✓';
+    document.getElementById('copy-btn').textContent = 'Copied ✓';
   });
 }
 document.getElementById('cite-modal').addEventListener('click', function(e) {
