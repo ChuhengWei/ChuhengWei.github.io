@@ -1,0 +1,8 @@
+@inproceedings{wei2025integrating,
+  title={Integrating multi-modal sensors: a review of fusion techniques for intelligent vehicles},
+  author={Wei, Chuheng and Qin, Ziye and Zhang, Ziyan and Wu, Guoyuan and Barth, Matthew J},
+  booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1817--1824},
+  year={2025},
+  organization={IEEE}
+}

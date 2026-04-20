@@ -1,0 +1,7 @@
+@INPROCEEDINGS{wei2025hecofuse,
+  author={Wei, Chuheng and Qin, Ziye and Zimmer, Walter and Wu, Guoyuan and Barth, Matthew J.},
+  booktitle={2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors}, 
+  year={2025},
+  pages={1214-1221},
+  doi={10.1109/ITSC60802.2025.11423237}}

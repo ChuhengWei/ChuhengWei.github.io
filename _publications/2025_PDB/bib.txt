@@ -1,0 +1,6 @@
+@article{wei2025pdb,
+  title={PDB: Not All Drivers Are the Same--A Personalized Dataset for Understanding Driving Behavior},
+  author={Wei, Chuheng and Qin, Ziye and Li, Siyan and Zhang, Ziyan and Zhao, Xuanpeng and Abdelraouf, Amr and Gupta, Rohit and Han, Kyungtae and Barth, Matthew J and Wu, Guoyuan},
+  journal={arXiv preprint arXiv:2503.06477},
+  year={2025}
+}

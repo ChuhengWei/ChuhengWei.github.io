@@ -8,7 +8,13 @@
       "Bash(cp \"_publications/2025_IV_sensorfusion/SensorFusion.png\" \"images/pub_2025_IV.png\")",
       "Bash(cp \"_publications/2026_PIEEE/BigMap.jpg\" \"images/pub_2026_PIEEE.jpg\")",
       "Bash(cp \"_publications/2025_IV_sensorfusion/IV_Sensor_fusion.pdf\" \"files/IV_Sensor_fusion.pdf\")",
-      "Bash(cp \"_publications/2026_PIEEE/PIEEE_Cooperative_Perception_for_Automated_Driving.pdf\" \"files/PIEEE_Cooperative_Perception.pdf\")"
+      "Bash(cp \"_publications/2026_PIEEE/PIEEE_Cooperative_Perception_for_Automated_Driving.pdf\" \"files/PIEEE_Cooperative_Perception.pdf\")",
+      "Bash(grep -E '\\\\.\\(pdf\\)$')",
+      "Bash(cp C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/_publications/2025_HeCofuse/ITSC_2025_HeCoFuse.pdf C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/files/HeCoFuse.pdf)",
+      "Bash(cp C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/_publications/2025_EKIGAN/AICity_EKI_GAN.pdf C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/files/EKI_GAN.pdf)",
+      "Bash(cp C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/_publications/2025_PDB/2503.06477v1.pdf C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/files/PDB.pdf)",
+      "Bash(cp C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/_publications/2024_RAFRCNN/ITSC_RAF_RCNN.pdf C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/files/RAF_RCNN.pdf)",
+      "Bash(cp C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/_publications/2024_KI_GAN/AICity_KI_GAN.pdf C:/Users/Ben/Documents/GitHub/ChuhengWei.github.io/files/KI_GAN.pdf)"
     ]
   }
 }

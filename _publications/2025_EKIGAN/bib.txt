@@ -1,0 +1,7 @@
+@inproceedings{wei2025eki,
+  title={EKI-GAN: Context-Aware Vehicle Trajectory Forecasting with Vehicle Factors and Environmental Information at Signalized Intersections},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5315--5324},
+  year={2025}
+}

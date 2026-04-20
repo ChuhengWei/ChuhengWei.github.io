@@ -1,0 +1,7 @@
+@inproceedings{wei2024feature,
+  title={Feature corrective transfer learning: End-to-end solutions to object detection in non-ideal visual conditions},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew J},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={23--32},
+  year={2024}
+}

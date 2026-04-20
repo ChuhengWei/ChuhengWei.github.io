@@ -1,0 +1,8 @@
+@inproceedings{wei2024raf,
+  title={RAF-RCNN: Adaptive Feature Transfer from Clear to Rainy Conditions for Improved Object Detection},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew J},
+  booktitle={2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={1418--1425},
+  year={2024},
+  organization={IEEE}
+}

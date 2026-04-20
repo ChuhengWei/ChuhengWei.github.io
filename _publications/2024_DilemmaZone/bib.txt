@@ -1,0 +1,8 @@
+@inproceedings{wei2024dilemma,
+  title={Dilemma zone: A comprehensive study of influential factors and behavior analysis},
+  author={Wei, Chuheng and Qin, Ziye and Wu, Guoyuan and Barth, Matthew J and Abdelraouf, Amr and Gupta, Rohit and Han, Kyungtae},
+  booktitle={2024 Forum for Innovative Sustainable Transportation Systems (FISTS)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}

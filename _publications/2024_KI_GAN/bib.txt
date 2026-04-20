@@ -1,0 +1,7 @@
+@inproceedings{wei2024ki,
+  title={Ki-gan: Knowledge-informed generative adversarial networks for enhanced multi-vehicle trajectory forecasting at signalized intersections},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew J and Abdelraouf, Amr and Gupta, Rohit and Han, Kyungtae},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={7115--7124},
+  year={2024}
+}

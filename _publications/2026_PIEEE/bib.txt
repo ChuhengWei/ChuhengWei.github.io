@@ -1,0 +1,7 @@
+@article{wei2025cooperative,
+  title={Cooperative perception for automated driving: A survey of algorithms, applications, and future directions},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew J},
+  journal={Proceedings of the IEEE},
+  year={2025},
+  publisher={IEEE}
+}

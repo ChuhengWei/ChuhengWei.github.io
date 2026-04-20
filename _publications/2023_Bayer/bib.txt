@@ -1,0 +1,8 @@
+@inproceedings{wei2023enhanced,
+  title={Enhanced object detection by integrating camera parameters into raw image-based faster r-cnn},
+  author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew and Chan, Pak Hung and Donzella, Valentina and Huggett, Anthony},
+  booktitle={2023 IEEE 26th international conference on intelligent transportation systems (ITSC)},
+  pages={4473--4478},
+  year={2023},
+  organization={IEEE}
+}
