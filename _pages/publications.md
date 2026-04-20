@@ -101,7 +101,6 @@ author_profile: true
 }
 
 .pub-authors strong.me {
-  color: #1a73e8;
   font-weight: 700;
 }
 
