@@ -117,7 +117,10 @@ author_profile: true
 }</div>
 
     <div class="pub-card">
-      <div class="pub-info" style="width:100%">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2025_PDB.jpg" alt="PDB figure">
+      </div>
+      <div class="pub-info">
         <p class="pub-title">PDB: Not All Drivers Are the Same — A Personalized Dataset for Understanding Driving Behavior</p>
         <p class="pub-authors"><strong class="me">C. Wei</strong>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, and G. Wu</p>
         <p class="pub-venue"><em>arXiv preprint</em> arXiv:2503.06477, 2025</p>
@@ -265,7 +268,7 @@ function showCite(id) {
   var content = document.getElementById(id).textContent;
   document.getElementById('cite-modal-content').textContent = content;
   document.getElementById('cite-modal').style.display = 'flex';
-  document.getElementById('copy-btn').textContent = '复制';
+  document.getElementById('copy-btn').textContent = 'Copy';
 }
 function closeCite() {
   document.getElementById('cite-modal').style.display = 'none';
