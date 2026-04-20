@@ -4,7 +4,11 @@
       "mcp__filesystem__directory_tree",
       "Bash(git:*)",
       "Bash(cd:*)",
-      "WebFetch(domain:yanbingwang.com)"
+      "WebFetch(domain:yanbingwang.com)",
+      "Bash(cp \"_publications/2025_IV_sensorfusion/SensorFusion.png\" \"images/pub_2025_IV.png\")",
+      "Bash(cp \"_publications/2026_PIEEE/BigMap.jpg\" \"images/pub_2026_PIEEE.jpg\")",
+      "Bash(cp \"_publications/2025_IV_sensorfusion/IV_Sensor_fusion.pdf\" \"files/IV_Sensor_fusion.pdf\")",
+      "Bash(cp \"_publications/2026_PIEEE/PIEEE_Cooperative_Perception_for_Automated_Driving.pdf\" \"files/PIEEE_Cooperative_Perception.pdf\")"
     ]
   }
 }
