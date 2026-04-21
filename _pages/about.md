@@ -113,6 +113,15 @@ Professional Service
   - IEEE International Conference on Vehicular Electronics and Safety (ICVES)
   - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
 
+---
+
+<div class="visitor-map-section">
+  <h2>Site Visitors</h2>
+  <div class="visitor-map-widget">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vHAMxvUuqjdKWfP3hxnBCtI3W6EryfxsnHfIBGI9yNY&cl=ffffff&w=a"></script>
+  </div>
+</div>
+
 <style>
 /* ── Widen the content area ───────────────────────────────────── */
 .page {
@@ -300,5 +309,23 @@ Professional Service
   height: 5px;
   background: #94a3b8;
   border-radius: 50%;
+}
+
+/* ── Visitor map ──────────────────────────────────────────────── */
+.visitor-map-section {
+  margin-top: 48px;
+  text-align: center;
+}
+
+.visitor-map-section h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #1a202c;
+  margin-bottom: 20px;
+}
+
+.visitor-map-widget {
+  display: inline-block;
+  max-width: 100%;
 }
 </style>
