@@ -337,8 +337,8 @@ Professional Service
 }
 
 .visitor-map-widget {
-  flex: 1 1 0;
-  min-width: 0;
+  flex: 0 0 380px;
+  max-width: 380px;
   overflow: hidden;
 }
 
