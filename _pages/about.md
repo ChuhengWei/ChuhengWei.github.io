@@ -117,8 +117,13 @@ Professional Service
 
 <div class="visitor-map-section">
   <h2>Site Visitors</h2>
-  <div class="visitor-map-widget">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vHAMxvUuqjdKWfP3hxnBCtI3W6EryfxsnHfIBGI9yNY&cl=ffffff&w=a"></script>
+  <div class="visitor-map-row">
+    <div class="visitor-map-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vHAMxvUuqjdKWfP3hxnBCtI3W6EryfxsnHfIBGI9yNY&cl=ffffff&w=a"></script>
+    </div>
+    <div class="visitor-flag-widget">
+      <a href="https://info.flagcounter.com/7V0v"><img src="https://s01.flagcounter.com/count2/7V0v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_49/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    </div>
   </div>
 </div>
 
@@ -324,10 +329,24 @@ Professional Service
   margin-bottom: 20px;
 }
 
+.visitor-map-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
 .visitor-map-widget {
-  display: block;
-  width: 600px;
-  max-width: 100%;
-  margin: 0 auto;
+  flex: 1;
+  min-width: 300px;
+  max-width: 600px;
+}
+
+.visitor-flag-widget {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>
