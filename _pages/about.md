@@ -325,7 +325,9 @@ Professional Service
 }
 
 .visitor-map-widget {
-  display: inline-block;
+  display: block;
+  width: 600px;
   max-width: 100%;
+  margin: 0 auto;
 }
 </style>
