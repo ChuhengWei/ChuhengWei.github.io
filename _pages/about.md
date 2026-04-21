@@ -332,21 +332,27 @@ Professional Service
 .visitor-map-row {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 32px;
+  gap: 24px;
   flex-wrap: wrap;
 }
 
 .visitor-map-widget {
-  flex: 1;
-  min-width: 300px;
-  max-width: 600px;
+  flex: 1 1 0;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .visitor-flag-widget {
-  flex-shrink: 0;
+  flex: 1 1 0;
+  min-width: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.visitor-flag-widget img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 </style>
