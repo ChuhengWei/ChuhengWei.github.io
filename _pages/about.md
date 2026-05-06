@@ -11,13 +11,15 @@ redirect_from:
 <div class="profile-hero">
   <div class="profile-left">
     <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-subtitle">Ph.D. Candidate &nbsp;·&nbsp; Electrical &amp; Computer Engineering</p>
-    <p class="profile-affil"><a href="https://www.ucr.edu/" target="_blank">University of California, Riverside</a></p>
+    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; Electrical &amp; Computer Engineering</p>
+    <p class="profile-affil"><a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
 
     <p class="profile-bio">
-      I am a third-year Ph.D. candidate in the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank">Transportation System Research (TSR) Group</a>
-      within the Department of Electrical and Computer Engineering at UC Riverside,
-      co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
+      I am a Postdoctoral Researcher in the Department of Electrical and Computer Engineering at
+      <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>,
+      working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
+      I received my Ph.D. from the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank">Transportation System Research (TSR) Group</a>
+      at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
       and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>.
       I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK,
       under the supervision of <a href="https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224" target="_blank">Dr. Valentina Donzella</a>.
@@ -47,7 +49,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of California, Riverside, CA, US, 2022–Present.
+* Ph.D in University of California, Riverside, CA, US, 2022–2026.
 * M.S. in University of Warwick, Coventry, UK, 2021–2022.
 * B.S. in Communication University of China, Beijing, China, 2013–2017.
 
@@ -55,6 +57,9 @@ Education
 News
 ======
 <div class="news-scroll" markdown="1">
+- [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/), working with [Dr. Ziran Wang](https://ziranw.github.io/)
+- [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
+- [04/2026] Successfully defended PhD dissertation at UC Riverside
 - [04/2026] Delivered an invited talk at Arizona State University on V2X and personalized autonomous driving
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
 - [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
