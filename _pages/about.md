@@ -11,8 +11,7 @@ redirect_from:
 <div class="profile-hero">
   <div class="profile-left">
     <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; Electrical &amp; Computer Engineering</p>
-    <p class="profile-affil"><a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
+    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
 
     <p class="profile-bio">
       I am a Postdoctoral Researcher in the Department of Electrical and Computer Engineering at
@@ -36,7 +35,7 @@ redirect_from:
     <img src="/images/kxm.jpg" alt="Chuheng Wei" class="profile-photo">
     <div class="profile-icons">
       <a href="mailto:chuheng.wei@email.ucr.edu" title="Email"><i class="fas fa-envelope"></i></a>
-      <a href="https://www.linkedin.com/in/chuheng-wei-520823222/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/chuhengwei/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank"><i class="fas fa-graduation-cap"></i></a>
       <a href="https://www.researchgate.net/profile/Chuheng-Wei" title="ResearchGate" target="_blank"><i class="fab fa-researchgate"></i></a>
       <a href="https://github.com/ChuhengWei" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
@@ -99,24 +98,8 @@ Professional Service
   - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
   - [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
-- Journal Reviewer:
-  - [IEEE Transactions on Intelligent Transportation Systems (T-ITS)](https://ieee-itss.org/pub/t-its/)
-  - [IEEE Transactions on Intelligent Vehicles (T-IV)](https://ieee-itss.org/pub/t-iv/)
-  - [IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)](https://ieee-itss.org/pub/oj-its/)
-  - [IEEE Open Journal of Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711)
-  - [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
-  - [Computer Science](https://peerj.com/computer-science/)
-  - [Cybernetics & Systems](https://www.tandfonline.com/journals/ucbs20)
-- Conference Reviewer:
-  - Annual AAAI Conference on Artificial Intelligence (AAAI)
-  - IEEE International Conference on Robotics and Automation (ICRA)
-  - IEEE Intelligent Vehicles Symposium (IV)
-  - IEEE Intelligent Transportation Systems Conference (ITSC)
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  - European Conference on Computer Vision (ECCV)
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
-  - IEEE International Conference on Vehicular Electronics and Safety (ICVES)
-  - IEEE Forum for Innovative Sustainable Transportation Systems (FISTS)
+- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711), [TMLR](https://jmlr.org/tmlr/), [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20)
+- Conference Reviewer: AAAI, ICRA, IV, ITSC, IROS, ECCV, CVPR, ICVES, FISTS
 
 ---
 
