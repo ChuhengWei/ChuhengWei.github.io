@@ -48,9 +48,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of California, Riverside, CA, US, 2022–2026.
-* M.S. in University of Warwick, Coventry, UK, 2021–2022.
-* B.S. in Communication University of China, Beijing, China, 2013–2017.
+* Ph.D in University of California, Riverside, CA, US, 10/2022–04/2026.
+* M.S. in University of Warwick, Coventry, UK, 10/2021–10/2022.
+* B.S. in Communication University of China, Beijing, China, 09/2013–07/2017.
+
+
+Academic Appointments
+======
+* **[Purdue University](https://www.purdue.edu/)**, West Lafayette, IN, US — Postdoctoral Research Associate (05/2026 – Present)
+* **[Amazon](https://www.amazon.science/)**, Sunnyvale, CA, US — Applied Scientist Intern (09/2025 – 12/2025)
+* **[UC Riverside](https://www.ucr.edu/)**, Riverside, CA, US — Research Assistant (01/2023 – 05/2026)
+* **Onsemi**, Coventry, UK — Computer Vision Research Assistant (11/2021 – 09/2022)
 
 
 News
@@ -92,11 +100,7 @@ News
 Professional Service
 ======
 
-- Technical Committees:
-  - [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025 (Organizer)
-  - [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer)
-  - [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee)
-  - [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
+- Technical Committees: [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025 (Organizer); [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer); [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee); [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
 - Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711), [TMLR](https://jmlr.org/tmlr/), [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20)
 - Conference Reviewer: AAAI, ICRA, IV, ITSC, IROS, ECCV, CVPR, ICVES, FISTS
