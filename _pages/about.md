@@ -14,7 +14,7 @@ redirect_from:
     <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a> &nbsp;·&nbsp; <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
 
     <p class="profile-bio">
-      I am a Postdoctoral Researcher in the Department of Electrical and Computer Engineering at
+      I am a Postdoctoral Researcher in the College of Engineering at
       <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>,
       working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
       I received my Ph.D. from the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank">Transportation System Research (TSR) Group</a>
