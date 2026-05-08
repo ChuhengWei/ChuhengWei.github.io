@@ -11,7 +11,7 @@ redirect_from:
 <div class="profile-hero">
   <div class="profile-left">
     <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
+    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a> &nbsp;·&nbsp; <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
 
     <p class="profile-bio">
       I am a Postdoctoral Researcher in the Department of Electrical and Computer Engineering at
@@ -66,11 +66,11 @@ News
 <div class="news-scroll" markdown="1">
 - [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/), working with [Dr. Ziran Wang](https://ziranw.github.io/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
-- [04/2026] Successfully defended PhD dissertation at UC Riverside
-- [04/2026] Delivered an invited talk at Arizona State University on V2X and personalized autonomous driving
+- [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
+- [04/2026] Delivered an [invited talk](https://www.linkedin.com/feed/update/urn:li:ugcPost:7449899250198413313/) at Arizona State University on V2X and personalized autonomous driving
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
 - [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
-- [09/2025] Started internship as Applied Scientist Intern at Amazon
+- [09/2025] Started internship as Applied Scientist Intern at [Amazon]((https://www.amazon.science/))
 - [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935) (IF: 25.9)
 - [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
 - [07/2025] [EKI-GAN](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC) accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
