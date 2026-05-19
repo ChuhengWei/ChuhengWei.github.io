@@ -15,9 +15,9 @@ redirect_from:
 
     <p class="profile-bio">
       I am a Postdoctoral Researcher in the College of Engineering at
-      <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>,
+      Purdue University,
       working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
-      I received my Ph.D. from the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank">Transportation System Research (TSR) Group</a>
+      I received my Ph.D. from the <a href="https://www.ece.ucr.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE)</a>
       at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
       and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>.
       I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK,
@@ -48,23 +48,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of California, Riverside, CA, US, 10/2022–04/2026.
-* M.S. in University of Warwick, Coventry, UK, 10/2021–10/2022.
-* B.S. in Communication University of China, Beijing, China, 09/2013–07/2017.
+<div class="cv-section">
+  <div class="cv-row">
+    <span class="cv-left">Ph.D, University of California, Riverside, CA, US</span>
+    <span class="cv-date">10/2022 – 04/2026</span>
+  </div>
+  <div class="cv-row">
+    <span class="cv-left">M.S., University of Warwick, Coventry, UK</span>
+    <span class="cv-date">10/2021 – 10/2022</span>
+  </div>
+  <div class="cv-row">
+    <span class="cv-left">B.S., Communication University of China, Beijing, China</span>
+    <span class="cv-date">09/2013 – 07/2017</span>
+  </div>
+</div>
 
 
 Academic Appointments
 ======
-* **[Purdue University](https://www.purdue.edu/)**, West Lafayette, IN, US — Postdoctoral Research Associate (05/2026 – Present)
-* **[Amazon](https://www.amazon.science/)**, Sunnyvale, CA, US — Applied Scientist Intern (09/2025 – 12/2025)
-* **[UC Riverside](https://www.ucr.edu/)**, Riverside, CA, US — Research Assistant (01/2023 – 05/2026)
-* **Onsemi**, Coventry, UK — Computer Vision Research Assistant (11/2021 – 09/2022)
+<div class="cv-section">
+  <div class="cv-row">
+    <span class="cv-left"><strong><a href="https://www.purdue.edu/">Purdue University</a></strong>, West Lafayette, IN, US &mdash; Postdoctoral Research Associate</span>
+    <span class="cv-date">05/2026 – Present</span>
+  </div>
+  <div class="cv-row">
+    <span class="cv-left"><strong><a href="https://www.amazon.science/">Amazon</a></strong>, Sunnyvale, CA, US &mdash; Applied Scientist Intern</span>
+    <span class="cv-date">09/2025 – 12/2025</span>
+  </div>
+  <div class="cv-row">
+    <span class="cv-left"><strong><a href="https://www.ucr.edu/">UC Riverside</a></strong>, Riverside, CA, US &mdash; Research Assistant</span>
+    <span class="cv-date">01/2023 – 05/2026</span>
+  </div>
+  <div class="cv-row">
+    <span class="cv-left"><strong>Onsemi</strong>, Coventry, UK &mdash; Computer Vision Research Assistant</span>
+    <span class="cv-date">11/2021 – 09/2022</span>
+  </div>
+</div>
 
 
 News
 ======
 <div class="news-scroll" markdown="1">
-- [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/), working with [Dr. Ziran Wang](https://ziranw.github.io/)
+- [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
 - [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
 - [04/2026] Delivered an [invited talk](https://www.linkedin.com/feed/update/urn:li:ugcPost:7449899250198413313/) at Arizona State University on V2X and personalized autonomous driving
@@ -102,8 +127,8 @@ Professional Service
 
 - Technical Committees: [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025, ITSC 2025, CVPR 2026 (Organizer); [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer); [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee); [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
-- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [TMC](https://www.computer.org/csdl/journal/tm) [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711), [TMLR](https://jmlr.org/tmlr/), [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20)
-- Conference Reviewer: AAAI, ICRA, IV, ITSC, IROS, ECCV, CVPR, ICVES, FISTS
+- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [TMC](https://www.computer.org/csdl/journal/tm),[TMLR](https://jmlr.org/tmlr/), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711),  [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20)
+- Conference Reviewer: AAAI, CVPR, ICRA, IV, ITSC, IROS, ECCV, ICVES, FISTS
 
 ---
 
@@ -306,6 +331,29 @@ Professional Service
   height: 5px;
   background: #94a3b8;
   border-radius: 50%;
+}
+
+/* ── CV rows (Education / Academic Appointments) ─────────────── */
+.cv-section { margin: 0 0 24px 0; }
+
+.cv-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px solid #f0f0f0;
+  gap: 16px;
+}
+
+.cv-row:last-child { border-bottom: none; }
+
+.cv-left { flex: 1; min-width: 0; font-size: 0.95rem; color: #374151; }
+
+.cv-date {
+  white-space: nowrap;
+  color: #4a5568;
+  font-size: 0.93rem;
+  text-align: right;
 }
 
 /* ── Visitor map ──────────────────────────────────────────────── */
