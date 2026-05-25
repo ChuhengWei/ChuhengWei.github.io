@@ -92,7 +92,7 @@ News
 - [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
 - [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
-- [04/2026] Delivered an [invited talk](https://www.linkedin.com/feed/update/urn:li:ugcPost:7449899250198413313/) at Arizona State University on V2X and personalized autonomous driving
+- [04/2026] Delivered an [invited talk](https://tbd.ctr.utexas.edu/seminar-webinar/intelligent-and-personalized-autonomous-driving-advancing-perception-cooperation-and-human-aware-prediction-systems/) at ASU and UT Austin on V2X and personalized autonomous driving
 - [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
 - [01/2025] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
 - [09/2025] Started internship as Applied Scientist Intern at [Amazon]((https://www.amazon.science/))

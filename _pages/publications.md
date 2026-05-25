@@ -42,6 +42,29 @@ author_profile: true
   year={2025},
   publisher={IEEE}
 }</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_IV.png" alt="VLM Dataset Survey figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets</p>
+        <p class="pub-authors"><strong class="me">C. Wei</strong>, H. Cheng, Z. Zhang, G. Wu, Z. Wang, and M. J. Barth</p>
+        <p class="pub-venue"><em>2026 IEEE Intelligent Vehicles Symposium (IV)</em></p>
+        <div class="pub-links">
+          <a class="pub-btn" href="/files/VLM_Dataset_Survey.pdf" target="_blank">PDF</a>
+          <a class="pub-btn" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185" target="_blank" style="background:#555;">TechRxiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-iv')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-iv" class="bib-data">@inproceedings{wei2026beyond,
+  title={Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets},
+  author={Wei, Chuheng and Cheng, Hao and Zhang, Ziyan and Wu, Guoyuan and Wang, Ziran and Barth, Matthew J},
+  booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)},
+  year={2026},
+  publisher={IEEE}
+}</div>
   </div>
 
   <!-- ===== 2025 ===== -->
