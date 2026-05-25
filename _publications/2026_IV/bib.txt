@@ -1,0 +1,7 @@
+@article{wei2026beyond,
+  title={Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets},
+  author={Wei, Chuheng and Cheng, Hao and Zhang, Ziyan and Wu, Guoyuan and Wang, Ziran and Barth, Matthew J},
+  year={2026},
+  booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)},
+  publisher={IEEE}
+}
