@@ -89,6 +89,7 @@ Academic Appointments
 News
 ======
 <div class="news-scroll" markdown="1">
+- [06/2026] Delivered an invited talk at the [IV2026 Interaction Workshop](https://ieee-iv.org/2026/) @ IEEE IV 2026
 - [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
 - [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
