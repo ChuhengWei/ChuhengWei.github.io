@@ -14,14 +14,13 @@ redirect_from:
     <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a> &nbsp;·&nbsp; <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
 
     <p class="profile-bio">
-      I am a Postdoctoral Researcher in the College of Engineering at
-      Purdue University,
+      I am a Postdoctoral Researcher in the College of Engineering at Purdue University,
       working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
-      I received my Ph.D. from the <a href="https://www.ece.ucr.edu/" target="_blank">Department of Electrical and Computer Engineering (ECE)</a>
+      I received my Ph.D. from the Department of Electrical and Computer Engineering (ECE)
       at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
       and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>.
       I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK,
-      under the supervision of <a href="https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1224" target="_blank">Dr. Valentina Donzella</a>.
+      under the supervision of <a href="https://www.sems.qmul.ac.uk/staff/v.donzella" target="_blank">Dr. Valentina Donzella</a>.
     </p>
     <p class="profile-bio">
       My research focuses on autonomous driving perception and planning under challenging conditions:
@@ -89,7 +88,7 @@ Academic Appointments
 News
 ======
 <div class="news-scroll" markdown="1">
-- [06/2026] Delivered an invited talk at the [IV2026 Interaction Workshop](https://ieee-iv.org/2026/) @ IEEE IV 2026
+- [06/2026] Delivered an invited talk at the IV 2026 Interaction Workshop
 - [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
 - [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
