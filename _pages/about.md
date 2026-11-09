@@ -44,7 +44,13 @@ redirect_from:
   </div>
 </div>
 
----
+<div class="affil-strip" aria-label="Affiliations">
+  <a href="https://www.primevideo.com/" target="_blank" title="Amazon Prime Video"><img src="/images/logos/prime-video.svg" alt="Amazon Prime Video"></a>
+  <a href="https://www.purdue.edu/" target="_blank" title="Purdue University"><img src="/images/logos/purdue.svg" alt="Purdue University" class="wide"></a>
+  <a href="https://www.ucr.edu/" target="_blank" title="University of California, Riverside"><img src="/images/logos/ucr.svg" alt="UC Riverside"></a>
+  <a href="https://warwick.ac.uk/" target="_blank" title="University of Warwick"><img src="/images/logos/warwick.svg" alt="University of Warwick" class="tall"></a>
+  <a href="https://www.cuc.edu.cn/" target="_blank" title="Communication University of China"><img src="/images/logos/cuc.png" alt="Communication University of China" class="tall"></a>
+</div>
 
 Education
 ======
@@ -270,6 +276,60 @@ Professional Service
   .profile-photo { width: 160px; height: 200px; }
   .profile-name { font-size: 1.7rem; text-align: center; }
   .profile-subtitle, .profile-affil { text-align: center; }
+}
+
+/* ── Affiliation logos ────────────────────────────────────────── */
+.affil-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px 28px;
+  padding: 20px 6px;
+  margin: 0 0 10px 0;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.affil-strip a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 auto;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.affil-strip img {
+  display: block;
+  height: 38px;
+  width: auto;
+  max-width: 150px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.62;
+  transition: filter 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
+}
+
+.affil-strip img.wide { max-width: 200px; }
+.affil-strip img.tall { height: 56px; }
+
+.affil-strip a:hover img {
+  filter: none;
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 680px) {
+  .affil-strip {
+    justify-content: center;
+    gap: 14px 22px;
+    padding: 16px 0;
+  }
+  .affil-strip a { flex: 0 0 auto; }
+  .affil-strip img { height: 30px; max-width: 120px; }
+  .affil-strip img.wide { max-width: 150px; }
+  .affil-strip img.tall { height: 44px; }
 }
 
 /* ── News scroll ──────────────────────────────────────────────── */
