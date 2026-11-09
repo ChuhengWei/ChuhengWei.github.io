@@ -11,10 +11,11 @@ redirect_from:
 <div class="profile-hero">
   <div class="profile-left">
     <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-subtitle">Postdoctoral Researcher &nbsp;·&nbsp; <a href="https://engineering.purdue.edu/Engr" target="_blank">College of Engineering</a> &nbsp;·&nbsp; <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></p>
+    <p class="profile-subtitle">Applied Scientist &nbsp;·&nbsp; Amazon Prime Video</p>
 
     <p class="profile-bio">
-      I am a Postdoctoral Researcher in the College of Engineering at Purdue University,
+      I am an Applied Scientist at Amazon Prime Video.
+      Previously, I was a Postdoctoral Researcher in the College of Engineering at Purdue University,
       working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
       I received my Ph.D. from the Department of Electrical and Computer Engineering (ECE)
       at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
@@ -67,8 +68,12 @@ Academic Appointments
 ======
 <div class="cv-section">
   <div class="cv-row">
+    <span class="cv-left"><strong>Amazon Prime Video</strong>, US &mdash; Applied Scientist</span>
+    <span class="cv-date">10/2026 – Present</span>
+  </div>
+  <div class="cv-row">
     <span class="cv-left"><strong><a href="https://www.purdue.edu/">Purdue University</a></strong>, West Lafayette, IN, US &mdash; Postdoctoral Research Associate</span>
-    <span class="cv-date">05/2026 – Present</span>
+    <span class="cv-date">05/2026 – 10/2026</span>
   </div>
   <div class="cv-row">
     <span class="cv-left"><strong><a href="https://www.amazon.science/">Amazon</a></strong>, Sunnyvale, CA, US &mdash; Applied Scientist Intern</span>
@@ -88,6 +93,8 @@ Academic Appointments
 News
 ======
 <div class="news-scroll" markdown="1">
+- [10/2026] Started as an Applied Scientist at Amazon Prime Video
+- [10/2026] Two papers accepted by [WACV 2027](https://wacv.thecvf.com/): [Versatile Samples for Trajectory Scoring](https://arxiv.org/abs/2609.01799) and [DriveMotion](https://arxiv.org/abs/2609.08117)
 - [06/2026] Delivered an invited talk at the IV 2026 Interaction Workshop
 - [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
 - [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
