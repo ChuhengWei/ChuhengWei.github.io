@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% include base_path %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/split.css">
+
+<div class="split">
+  {% include split-panel.html %}
+  <main class="content">
+{{ content }}
+  </main>
+</div>
+
+<script>
+document.querySelectorAll("[data-more]").forEach(function (b) {
+  b.addEventListener("click", function () {
+    var box = document.getElementById(b.getAttribute("data-more"));
+    box.classList.toggle("open");
+    b.textContent = box.classList.contains("open") ? b.getAttribute("data-less") : b.getAttribute("data-more-label");
+  });
+});
+</script>

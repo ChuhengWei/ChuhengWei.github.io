@@ -1,0 +1,29 @@
+{% include base_path %}
+{% assign is_home = false %}
+{% if page.url == "/" or page.url == "/index.html" %}{% assign is_home = true %}{% endif %}
+{% if is_home %}{% assign home = "" %}{% else %}{% assign home = base_path | append: "/" %}{% endif %}
+<aside class="panel">
+  <div class="cover"><img src="{{ base_path }}/images/kxm.jpg" alt="Chuheng Wei"></div>
+  <div class="pbody">
+    <h1><a href="{{ base_path }}/">Chuheng Wei</a></h1>
+    <p class="role"><b>Applied Scientist</b> &middot; Amazon Prime Video</p>
+    <p class="loc">Seattle, WA</p>
+    <div class="icons">
+      <a href="mailto:chuheng.wei@email.ucr.edu" title="Email"><i class="fas fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/chuhengwei/" title="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&amp;hl=en&amp;oi=ao" title="Google Scholar" target="_blank" rel="noopener"><i class="fas fa-graduation-cap"></i></a>
+      <a href="https://www.researchgate.net/profile/Chuheng-Wei" title="ResearchGate" target="_blank" rel="noopener"><i class="fab fa-researchgate"></i></a>
+      <a href="https://github.com/ChuhengWei" title="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+      <a href="https://orcid.org/0000-0002-0747-9398" title="ORCID" target="_blank" rel="noopener"><i class="ai ai-orcid"></i></a>
+    </div>
+    <ul class="pnav">
+      <li{% if is_home %} class="active"{% endif %}><a href="{{ home }}#about">About<span>01</span></a></li>
+      <li><a href="{{ home }}#experience">Experience<span>02</span></a></li>
+      <li><a href="{{ home }}#education">Education<span>03</span></a></li>
+      <li><a href="{{ home }}#news">News<span>04</span></a></li>
+      <li><a href="{{ home }}#service">Service<span>05</span></a></li>
+      <li{% if page.url contains "/publications" %} class="active"{% endif %}><a href="{{ base_path }}/publications/">Publications<span>06</span></a></li>
+    </ul>
+    <div class="pfoot">&copy; 2026 Chuheng Wei</div>
+  </div>
+</aside>

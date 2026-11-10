@@ -1,6 +1,7 @@
 ---
+layout: split
 permalink: /
-title: " "
+title: "Chuheng Wei"
 excerpt: "About me"
 author_profile: false
 redirect_from:
@@ -8,464 +9,131 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-hero">
-  <div class="profile-left">
-    <h1 class="profile-name">Chuheng Wei</h1>
-    <p class="profile-subtitle">Applied Scientist &nbsp;·&nbsp; Amazon Prime Video</p>
+<section id="about">
+<h2>About</h2>
+<div class="lede">
+<p>I am an Applied Scientist at Amazon Prime Video. Previously, I was a Postdoctoral Researcher in the College of Engineering at Purdue University, working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>. I received my Ph.D. from the Department of Electrical and Computer Engineering (ECE) at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a> and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>. I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK, under the supervision of <a href="https://www.sems.qmul.ac.uk/staff/v.donzella" target="_blank">Dr. Valentina Donzella</a>.</p>
+<p>My research focuses on autonomous driving perception and planning under challenging conditions: including vision-based and multi-sensor fusion perception in adverse environments, cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios, as well as personalized autonomous driving and vehicle re-identification.</p>
+</div>
+<div class="logos" aria-label="Affiliations">
+<a href="https://www.primevideo.com/" title="Amazon Prime Video" target="_blank"><img src="/images/logos/prime-video.svg" alt="Amazon Prime Video" class=""></a>
+<a href="https://www.purdue.edu/" title="Purdue University" target="_blank"><img src="/images/logos/purdue.svg" alt="Purdue University" class="wide"></a>
+<a href="https://www.ucr.edu/" title="UC Riverside" target="_blank"><img src="/images/logos/ucr.svg" alt="UC Riverside" class=""></a>
+<a href="https://warwick.ac.uk/" title="University of Warwick" target="_blank"><img src="/images/logos/warwick.svg" alt="University of Warwick" class="tall"></a>
+<a href="https://www.cuc.edu.cn/" title="Communication University of China" target="_blank"><img src="/images/logos/cuc.png" alt="Communication University of China" class="tall"></a>
+</div>
+</section>
 
-    <p class="profile-bio">
-      I am an Applied Scientist at Amazon Prime Video.
-      Previously, I was a Postdoctoral Researcher in the College of Engineering at Purdue University,
-      working with <a href="https://ziranw.github.io/" target="_blank">Dr. Ziran Wang</a>.
-      I received my Ph.D. from the Department of Electrical and Computer Engineering (ECE)
-      at UC Riverside, co-advised by <a href="https://intra.ece.ucr.edu/~barth/" target="_blank">Dr. Matthew J. Barth</a>
-      and <a href="https://profiles.ucr.edu/app/home/profile/guoyuanw" target="_blank">Dr. Guoyuan Wu</a>.
-      I completed my Master's degree in Smart Connected and Autonomous Vehicles at the University of Warwick, UK,
-      under the supervision of <a href="https://www.sems.qmul.ac.uk/staff/v.donzella" target="_blank">Dr. Valentina Donzella</a>.
-    </p>
-    <p class="profile-bio">
-      My research focuses on autonomous driving perception and planning under challenging conditions:
-      including vision-based and multi-sensor fusion perception in adverse environments,
-      cooperative perception in V2X systems, trajectory prediction and planning in complex traffic scenarios,
-      as well as personalized autonomous driving and vehicle re-identification.
-    </p>
+<section id="experience">
+<h2>Experience</h2>
+<div class="rows">
+  <div class="row">
+    <div class="tile"><img src="/images/logos/prime-video.svg" alt="Amazon Prime Video"></div>
+    <div class="txt"><div class="org">Amazon Prime Video <span class="tag">Current</span></div><div class="role">Applied Scientist</div><div class="loc">Seattle, WA, US</div></div>
+    <div class="date">10/2026 – Present</div>
   </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/purdue.svg" alt="Purdue University"></div>
+    <div class="txt"><div class="org">Purdue University</div><div class="role">Postdoctoral Research Associate</div><div class="loc">West Lafayette, IN, US</div></div>
+    <div class="date">05/2026 – 10/2026</div>
+  </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/amazon.svg" alt="Amazon"></div>
+    <div class="txt"><div class="org">Amazon</div><div class="role">Applied Scientist Intern</div><div class="loc">Sunnyvale, CA, US</div></div>
+    <div class="date">09/2025 – 12/2025</div>
+  </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/ucr.svg" alt="UC Riverside"></div>
+    <div class="txt"><div class="org">UC Riverside</div><div class="role">Research Assistant</div><div class="loc">Riverside, CA, US</div></div>
+    <div class="date">01/2023 – 05/2026</div>
+  </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/onsemi.svg" alt="Onsemi"></div>
+    <div class="txt"><div class="org">Onsemi</div><div class="role">Computer Vision Research Assistant</div><div class="loc">Coventry, UK</div></div>
+    <div class="date">11/2021 – 09/2022</div>
+  </div>
+</div>
+</section>
 
-  <div class="profile-right">
-    <img src="/images/kxm.jpg" alt="Chuheng Wei" class="profile-photo">
-    <div class="profile-icons">
-      <a href="mailto:chuheng.wei@email.ucr.edu" title="Email"><i class="fas fa-envelope"></i></a>
-      <a href="https://www.linkedin.com/in/chuhengwei/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank"><i class="fas fa-graduation-cap"></i></a>
-      <a href="https://www.researchgate.net/profile/Chuheng-Wei" title="ResearchGate" target="_blank"><i class="fab fa-researchgate"></i></a>
-      <a href="https://github.com/ChuhengWei" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="https://orcid.org/0000-0002-0747-9398" title="ORCID" target="_blank"><i class="ai ai-orcid"></i></a>
+<section id="education">
+<h2>Education</h2>
+<div class="rows">
+  <div class="row">
+    <div class="tile"><img src="/images/logos/ucr.svg" alt="University of California, Riverside"></div>
+    <div class="txt"><div class="org">University of California, Riverside</div><div class="role">Ph.D.</div><div class="loc">Riverside, CA, US</div></div>
+    <div class="date">10/2022 – 04/2026</div>
+  </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/warwick.svg" alt="University of Warwick"></div>
+    <div class="txt"><div class="org">University of Warwick</div><div class="role">M.S.</div><div class="loc">Coventry, UK</div></div>
+    <div class="date">10/2021 – 10/2022</div>
+  </div>
+  <div class="row">
+    <div class="tile"><img src="/images/logos/cuc.png" alt="Communication University of China"></div>
+    <div class="txt"><div class="org">Communication University of China</div><div class="role">B.S.</div><div class="loc">Beijing, China</div></div>
+    <div class="date">09/2013 – 07/2017</div>
+  </div>
+</div>
+</section>
+
+<section id="news">
+<h2>News</h2>
+<div class="more-wrap" id="news-wrap">
+  <div class="news">
+    <div class="d">10/2026</div><div class="t">Started as an Applied Scientist at Amazon Prime Video</div>
+    <div class="d">10/2026</div><div class="t">Two papers accepted by <a href="https://wacv.thecvf.com/" target="_blank">WACV 2027</a>: <a href="https://arxiv.org/abs/2609.01799" target="_blank">Versatile Samples for Trajectory Scoring</a> and <a href="https://arxiv.org/abs/2609.08117" target="_blank">DriveMotion</a></div>
+    <div class="d">06/2026</div><div class="t">Delivered an invited talk at the IV 2026 Interaction Workshop</div>
+    <div class="d">05/2026</div><div class="t">Started as a Postdoctoral Researcher at <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></div>
+    <div class="d">05/2026</div><div class="t">One paper accepted by <a href="https://ieee-itsc.org/2026/" target="_blank">ITSC 2026</a></div>
+    <div class="d">04/2026</div><div class="t">Successfully defended <a href="https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/" target="_blank">PhD dissertation</a> at UC Riverside</div>
+    <div class="d">04/2026</div><div class="t">Delivered an <a href="https://tbd.ctr.utexas.edu/seminar-webinar/intelligent-and-personalized-autonomous-driving-advancing-perception-cooperation-and-human-aware-prediction-systems/" target="_blank">invited talk</a> at ASU and UT Austin on V2X and personalized autonomous driving</div>
+    <div class="d">02/2026</div><div class="t">Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature</div>
+    <div class="hidden-items">
+    <div class="d">01/2026</div><div class="t"><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185" target="_blank">VLM Dataset Survey</a> accepted by <a href="https://ieee-iv.org/2026/" target="_blank">IEEE IV 2026</a></div>
+    <div class="d">09/2025</div><div class="t">Started internship as Applied Scientist Intern at <a href="https://www.amazon.science/" target="_blank">Amazon</a></div>
+    <div class="d">09/2025</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/11186152/" target="_blank">Cooperative Perception Survey</a> accepted in <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935" target="_blank">Proceedings of the IEEE</a> (IF: 25.9)</div>
+    <div class="d">08/2025</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/11122292" target="_blank">One Paper</a> accepted in R-AL</div>
+    <div class="d">07/2025</div><div class="t"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC" target="_blank">EKI-GAN</a> accepted by <a href="https://iccv.thecvf.com/" target="_blank">ICCV 2025</a> <a href="https://www.aicitychallenge.org/" target="_blank">AI City Workshop</a></div>
+    <div class="d">07/2025</div><div class="t"><a href="https://arxiv.org/abs/2507.13677" target="_blank">HeCoFuse</a> and PointCompress3D accepted by <a href="https://ieee-itsc.org/2025/" target="_blank">ITSC 2025</a></div>
+    <div class="d">06/2025</div><div class="t">Awarded 2025 UCR Esther F. Hays Graduate Fellowship</div>
+    <div class="d">06/2025</div><div class="t"><a href="https://arxiv.org/abs/2507.13677" target="_blank">HeCoFuse</a> ranked 1st in the <a href="https://drivex-workshop.github.io/" target="_blank">CVPR 2025 V2X Challenge</a></div>
+    <div class="d">03/2025</div><div class="t"><a href="https://ieeexplore.ieee.org/document/11097396" target="_blank">One paper (Sensor Fusion Survey)</a> accepted by <a href="https://ieee-iv.org/2025/" target="_blank">IV 2025</a></div>
+    <div class="d">03/2025</div><div class="t">One paper <a href="https://www.mdpi.com/2076-3417/15/7/3797" target="_blank">(VRU Survey)</a> accepted in <a href="https://www.mdpi.com/journal/applsci" target="_blank">Applied Sciences</a></div>
+    <div class="d">01/2025</div><div class="t">Award <a href="https://its.dot.gov/isc/" target="_blank">USDOT Intersection Safety Challenge (Stage 1B)</a> Prize</div>
+    <div class="d">12/2024</div><div class="t">Passed Oral Exam and advanced to PhD candidacy</div>
+    <div class="d">10/2024</div><div class="t">Three papers accepted by <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB 2025</a> for presentation</div>
+    <div class="d">09/2024</div><div class="t">MappedPillars awarded Best Student Poster Runner-up Award at <a href="https://dsaa2024.dsaa.co/" target="_blank">DSAA 2024</a></div>
+    <div class="d">07/2024</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/10920096" target="_blank">RAF-RCNN</a> accepted by <a href="https://ieee-itsc.org/2024/" target="_blank">ITSC 2024</a></div>
+    <div class="d">07/2024</div><div class="t">Awarded 2024 UCR Esther F. Hays Graduate Fellowship</div>
+    <div class="d">05/2024</div><div class="t"><a href="https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html" target="_blank">KI-GAN</a> accepted by <a href="https://cvpr.thecvf.com/Conferences/2024" target="_blank">CVPR 2024</a> <a href="https://www.aicitychallenge.org/" target="_blank">AI City Workshop</a></div>
+    <div class="d">05/2024</div><div class="t"><a href="https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html" target="_blank">FCTR</a> accepted by <a href="https://cvpr.thecvf.com/Conferences/2024" target="_blank">CVPR 2024</a> <a href="https://cvpr2024ug2challenge.github.io/" target="_blank">UG2+ Workshop</a></div>
+    <div class="d">01/2024</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/10485546" target="_blank">Dilemma Zone Survey</a> accepted by <a href="https://2023.ieee-itsc.org/" target="_blank">FISTS 2024</a></div>
+    <div class="d">11/2023</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/10473585" target="_blank">One Paper</a> accepted by <a href="https://www.ieee-irc.org/" target="_blank">IRC 2023</a></div>
+    <div class="d">07/2023</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/10422473" target="_blank">One Paper</a> accepted by <a href="https://2023.ieee-itsc.org/" target="_blank">ITSC 2023</a></div>
+    <div class="d">01/2023</div><div class="t">Started as a Research Assistant (RA) at <a href="https://www.cert.ucr.edu/" target="_blank">CE-CERT</a>, <a href="https://www.ece.ucr.edu/" target="_blank">ECE</a>, <a href="https://www.ucr.edu/" target="_blank">UCR</a></div>
+    <div class="d">09/2022</div><div class="t">Began PhD studies at <a href="https://www.ucr.edu/" target="_blank">UC Riverside</a></div>
+    <div class="d">10/2022</div><div class="t">Graduated from <a href="https://warwick.ac.uk/" target="_blank">University of Warwick</a> with an MSc in <a href="https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/" target="_blank">SCAV</a></div>
+    <div class="d">10/2021</div><div class="t">Started MSc in <a href="https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/" target="_blank">Smart, Connected and Autonomous Vehicles</a> at the <a href="https://warwick.ac.uk/" target="_blank">University of Warwick</a></div>
     </div>
   </div>
 </div>
+<button class="more" type="button" data-more="news-wrap" data-more-label="Show all 33 updates" data-less="Show fewer">Show all 33 updates</button>
+</section>
 
-<div class="affil-strip" aria-label="Affiliations">
-  <a href="https://www.primevideo.com/" target="_blank" title="Amazon Prime Video"><img src="/images/logos/prime-video.svg" alt="Amazon Prime Video"></a>
-  <a href="https://www.purdue.edu/" target="_blank" title="Purdue University"><img src="/images/logos/purdue.svg" alt="Purdue University" class="wide"></a>
-  <a href="https://www.ucr.edu/" target="_blank" title="University of California, Riverside"><img src="/images/logos/ucr.svg" alt="UC Riverside"></a>
-  <a href="https://warwick.ac.uk/" target="_blank" title="University of Warwick"><img src="/images/logos/warwick.svg" alt="University of Warwick" class="tall"></a>
-  <a href="https://www.cuc.edu.cn/" target="_blank" title="Communication University of China"><img src="/images/logos/cuc.png" alt="Communication University of China" class="tall"></a>
+<section id="service" class="svc">
+<h2>Professional Service</h2>
+<h3>Workshop organization &amp; committees</h3>
+<p><a href="https://drivex-workshop.github.io/" target="_blank">DriveX Workshop</a> @ CVPR 2025, ICCV 2025, ITSC 2025, CVPR 2026 (Organizer); <a href="https://dliva-workshop.github.io/" target="_blank">Dliva Workshop</a> @ IEEE IV 2025 (Organizer); <a href="https://icrawearable.github.io/" target="_blank">1st WIHR Workshop</a> @ ICRA 2024 (Committee); <a href="https://coop-intelligence.github.io/" target="_blank">Coop-intelligence Workshop</a> @ ECCV 2024 (Committee)</p>
+<h3>Journal reviewer</h3>
+<div class="chips"><a href="https://ieee-itss.org/pub/t-its/" target="_blank" rel="noopener">T-ITS</a><a href="https://ieee-itss.org/pub/t-iv/" target="_blank" rel="noopener">T-IV</a><a href="https://vtsociety.org/publication/ieee-transactions-on-vehicular-technology" target="_blank" rel="noopener">TVT</a><a href="https://www.computer.org/csdl/journal/tm" target="_blank" rel="noopener">TMC</a><a href="https://www.computer.org/csdl/journal/tq" target="_blank" rel="noopener">TDSC</a><a href="https://ieee-itss.org/pub/oj-its/" target="_blank" rel="noopener">OJ-ITS</a><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711" target="_blank" rel="noopener">OJ-VT</a><a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">TMLR</a><a href="https://journals.sagepub.com/home/trr" target="_blank" rel="noopener">TRR</a><a href="https://peerj.com/computer-science/" target="_blank" rel="noopener">PeerJ CS</a><a href="https://www.tandfonline.com/journals/ucbs20" target="_blank" rel="noopener">C&amp;S</a><a href="https://www.mdpi.com/journal/sensors" target="_blank" rel="noopener">Sensors</a><a href="https://www.mdpi.com/journal/vehicles" target="_blank" rel="noopener">Vehicles</a><a href="https://www.mdpi.com/journal/telecom" target="_blank" rel="noopener">Telecom</a><a href="https://www.mdpi.com/journal/eng" target="_blank" rel="noopener">Eng</a><a href="https://www.aimspress.com/journal/era" target="_blank" rel="noopener">ERA</a><a href="http://itiis.org/" target="_blank" rel="noopener">KSII TIIS</a></div>
+<h3>Conference reviewer</h3>
+<div class="chips"><span>NeurIPS</span><span>AAAI</span><span>CVPR</span><span>ECCV</span><span>WACV</span><span>ICRA</span><span>IROS</span><span>IV</span><span>ITSC</span><span>TRB Annual Meeting</span><span>ICVES</span><span>FISTS</span></div>
+</section>
+
+<section id="visitors">
+<h2>Site Visitors</h2>
+<div class="visitors">
+  <div class="map"><a href="https://info.flagcounter.com/7V0v" target="_blank" rel="noopener"><img src="https://s01.flagcounter.com/map/7V0v/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor map"></a></div>
+  <div class="flags"><a href="https://info.flagcounter.com/7V0v" target="_blank" rel="noopener"><img src="https://s01.flagcounter.com/count2/7V0v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_49/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag counter"></a></div>
 </div>
-
-Education
-======
-<div class="cv-section">
-  <div class="cv-row">
-    <span class="cv-left">Ph.D, University of California, Riverside, CA, US</span>
-    <span class="cv-date">10/2022 – 04/2026</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left">M.S., University of Warwick, Coventry, UK</span>
-    <span class="cv-date">10/2021 – 10/2022</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left">B.S., Communication University of China, Beijing, China</span>
-    <span class="cv-date">09/2013 – 07/2017</span>
-  </div>
-</div>
-
-
-Academic Appointments
-======
-<div class="cv-section">
-  <div class="cv-row">
-    <span class="cv-left"><strong>Amazon Prime Video</strong>, Seattle, WA, US &mdash; Applied Scientist</span>
-    <span class="cv-date">10/2026 – Present</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left"><strong><a href="https://www.purdue.edu/">Purdue University</a></strong>, West Lafayette, IN, US &mdash; Postdoctoral Research Associate</span>
-    <span class="cv-date">05/2026 – 10/2026</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left"><strong><a href="https://www.amazon.science/">Amazon</a></strong>, Sunnyvale, CA, US &mdash; Applied Scientist Intern</span>
-    <span class="cv-date">09/2025 – 12/2025</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left"><strong><a href="https://www.ucr.edu/">UC Riverside</a></strong>, Riverside, CA, US &mdash; Research Assistant</span>
-    <span class="cv-date">01/2023 – 05/2026</span>
-  </div>
-  <div class="cv-row">
-    <span class="cv-left"><strong>Onsemi</strong>, Coventry, UK &mdash; Computer Vision Research Assistant</span>
-    <span class="cv-date">11/2021 – 09/2022</span>
-  </div>
-</div>
-
-
-News
-======
-<div class="news-scroll" markdown="1">
-- [10/2026] Started as an Applied Scientist at Amazon Prime Video
-- [10/2026] Two papers accepted by [WACV 2027](https://wacv.thecvf.com/): [Versatile Samples for Trajectory Scoring](https://arxiv.org/abs/2609.01799) and [DriveMotion](https://arxiv.org/abs/2609.08117)
-- [06/2026] Delivered an invited talk at the IV 2026 Interaction Workshop
-- [05/2026] Started as a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/)
-- [05/2026] One paper accepted by [ITSC 2026](https://ieee-itsc.org/2026/)
-- [04/2026] Successfully defended [PhD dissertation](https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/) at UC Riverside
-- [04/2026] Delivered an [invited talk](https://tbd.ctr.utexas.edu/seminar-webinar/intelligent-and-personalized-autonomous-driving-advancing-perception-cooperation-and-human-aware-prediction-systems/) at ASU and UT Austin on V2X and personalized autonomous driving
-- [02/2026] Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature
-- [01/2026] [VLM Dataset Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185) accepted by [IEEE IV 2026](https://ieee-iv.org/2026/)
-- [09/2025] Started internship as Applied Scientist Intern at [Amazon](https://www.amazon.science/)
-- [09/2025] [Cooperative Perception Survey](https://ieeexplore.ieee.org/abstract/document/11186152/) accepted in [Proceedings of the IEEE](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935) (IF: 25.9)
-- [08/2025] [One Paper](https://ieeexplore.ieee.org/abstract/document/11122292) accepted in R-AL
-- [07/2025] [EKI-GAN](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC) accepted by [ICCV 2025](https://iccv.thecvf.com/) [AI City Workshop](https://www.aicitychallenge.org/)
-- [07/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) and PointCompress3D accepted by [ITSC 2025](https://ieee-itsc.org/2025/)
-- [06/2025] Awarded 2025 UCR Esther F. Hays Graduate Fellowship
-- [06/2025] [HeCoFuse](https://arxiv.org/abs/2507.13677) ranked 1st in the [CVPR 2025 V2X Challenge](https://drivex-workshop.github.io/)
-- [03/2025] [One paper (Sensor Fusion Survey)](https://ieeexplore.ieee.org/document/11097396) accepted by [IV 2025](https://ieee-iv.org/2025/)
-- [03/2025] One paper [(VRU Survey)](https://www.mdpi.com/2076-3417/15/7/3797) accepted in [Applied Sciences](https://www.mdpi.com/journal/applsci)
-- [01/2025] Award [USDOT Intersection Safety Challenge (Stage 1B)](https://its.dot.gov/isc/) Prize
-- [12/2024] Passed Oral Exam and advanced to PhD candidacy
-- [10/2024] Three papers accepted by [TRB 2025](https://trb-annual-meeting.nationalacademies.org/) for presentation
-- [09/2024] MappedPillars awarded Best Student Poster Runner-up Award at [DSAA 2024](https://dsaa2024.dsaa.co/)
-- [07/2024] [RAF-RCNN](https://ieeexplore.ieee.org/abstract/document/10920096) accepted by [ITSC 2024](https://ieee-itsc.org/2024/)
-- [07/2024] Awarded 2024 UCR Esther F. Hays Graduate Fellowship
-- [05/2024] [KI-GAN](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Wei_KI-GAN_Knowledge-Informed_Generative_Adversarial_Networks_for_Enhanced_Multi-Vehicle_Trajectory_Forecasting_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [AI City Workshop](https://www.aicitychallenge.org/)
-- [05/2024] [FCTR](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.html) accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) [UG2+ Workshop](https://cvpr2024ug2challenge.github.io/)
-- [01/2024] [Dilemma Zone Survey](https://ieeexplore.ieee.org/abstract/document/10485546) accepted by [FISTS 2024](https://2023.ieee-itsc.org/)
-- [11/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10473585) accepted by [IRC 2023](https://www.ieee-irc.org/)
-- [07/2023] [One Paper](https://ieeexplore.ieee.org/abstract/document/10422473) accepted by [ITSC 2023](https://2023.ieee-itsc.org/)
-- [01/2023] Started as a Research Assistant (RA) at [CE-CERT](https://www.cert.ucr.edu/), [ECE](https://www.ece.ucr.edu/), [UCR](https://www.ucr.edu/)
-- [09/2022] Began PhD studies at [UC Riverside](https://www.ucr.edu/)
-- [10/2022] Graduated from [University of Warwick](https://warwick.ac.uk/) with an MSc in [SCAV](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/)
-- [10/2021] Started MSc in [Smart, Connected and Autonomous Vehicles](https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/) at the [University of Warwick](https://warwick.ac.uk/)
-</div>
-
-
-Professional Service
-======
-
-- Technical Committees: [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025, ITSC 2025, CVPR 2026 (Organizer); [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer); [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee); [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
-
-- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [TVT](https://vtsociety.org/publication/ieee-transactions-on-vehicular-technology), [TMC](https://www.computer.org/csdl/journal/tm), [TDSC](https://www.computer.org/csdl/journal/tq), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711), [TMLR](https://jmlr.org/tmlr/), [TRR](https://journals.sagepub.com/home/trr), [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20), [Sensors](https://www.mdpi.com/journal/sensors), [Vehicles](https://www.mdpi.com/journal/vehicles), [Telecom](https://www.mdpi.com/journal/telecom), [Eng](https://www.mdpi.com/journal/eng), [ERA](https://www.aimspress.com/journal/era), [KSII TIIS](http://itiis.org/)
-- Conference Reviewer: NeurIPS, AAAI, CVPR, ECCV, WACV, ICRA, IROS, IV, ITSC, TRB Annual Meeting, ICVES, FISTS
-
----
-
-<div class="visitor-map-section">
-  <h2>Site Visitors</h2>
-  <div class="visitor-map-row">
-    <div class="visitor-map-widget">
-      <a href="https://info.flagcounter.com/7V0v"><img src="https://s01.flagcounter.com/map/7V0v/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor map" border="0"></a>
-    </div>
-    <div class="visitor-flag-widget">
-      <a href="https://info.flagcounter.com/7V0v"><img src="https://s01.flagcounter.com/count2/7V0v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_49/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-    </div>
-  </div>
-</div>
-
-<style>
-/* ── Widen the content area ───────────────────────────────────── */
-.page {
-  float: none !important;
-  width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-#main {
-  max-width: 1080px !important;
-  padding-left: 1em !important;
-  padding-right: 1em !important;
-}
-/* hide the duplicate h1 page title (we render our own) */
-.page__title { display: none; }
-
-/* ── Profile hero ─────────────────────────────────────────────── */
-.profile-hero {
-  display: flex;
-  align-items: flex-start;
-  gap: 36px;
-  padding: 12px 0 40px 0;
-}
-
-.profile-left {
-  flex: 1;
-  min-width: 0;
-}
-
-.profile-name {
-  font-size: 2.2rem;
-  font-weight: 700;
-  color: #1a202c;
-  margin: 0 0 6px 0;
-  border: none;
-  padding: 0;
-  line-height: 1.2;
-}
-
-.profile-subtitle {
-  font-size: 1rem;
-  color: #4a5568;
-  margin: 0 0 4px 0;
-}
-
-.profile-affil {
-  font-size: 0.95rem;
-  color: #718096;
-  margin: 0 0 24px 0;
-}
-
-.profile-affil a {
-  color: #2563eb;
-  text-decoration: none;
-}
-
-.profile-affil a:hover { text-decoration: underline; }
-
-.profile-bio {
-  font-size: 0.97rem;
-  line-height: 1.75;
-  color: #374151;
-  margin: 0 0 14px 0;
-}
-
-/* ── Right column: photo + icons ──────────────────────────────── */
-.profile-right {
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 16px;
-  padding-top: 6px;
-}
-
-.profile-photo {
-  width: 220px;
-  height: 300px;
-  border-radius: 8px;
-  object-fit: cover;
-  object-position: center top;
-  display: block;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.12);
-}
-
-.profile-icons {
-  display: flex;
-  justify-content: center;
-  gap: 14px;
-}
-
-.profile-icons a {
-  color: #64748b;
-  font-size: 1.25rem;
-  text-decoration: none;
-  transition: color 0.15s ease, transform 0.15s ease;
-  display: flex;
-  align-items: center;
-}
-
-.profile-icons a:hover {
-  color: #2563eb;
-  transform: translateY(-2px);
-}
-
-/* ── Responsive ───────────────────────────────────────────────── */
-@media (max-width: 680px) {
-  .profile-hero {
-    flex-direction: column-reverse;
-    align-items: center;
-    gap: 24px;
-    padding-bottom: 28px;
-  }
-  .profile-right { width: 100%; }
-  .profile-photo { width: 160px; height: 200px; }
-  .profile-name { font-size: 1.7rem; text-align: center; }
-  .profile-subtitle, .profile-affil { text-align: center; }
-}
-
-/* ── Affiliation logos ────────────────────────────────────────── */
-.affil-strip {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 18px 28px;
-  padding: 20px 6px;
-  margin: 0 0 10px 0;
-  border-top: 1px solid #e5e7eb;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.affil-strip a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex: 1 1 auto;
-  text-decoration: none;
-  border-bottom: none;
-}
-
-.affil-strip img {
-  display: block;
-  height: 38px;
-  width: auto;
-  max-width: 150px;
-  object-fit: contain;
-  filter: grayscale(100%);
-  opacity: 0.62;
-  transition: filter 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
-}
-
-.affil-strip img.wide { max-width: 200px; }
-.affil-strip img.tall { height: 56px; }
-
-.affil-strip a:hover img {
-  filter: none;
-  opacity: 1;
-  transform: translateY(-2px);
-}
-
-@media (max-width: 680px) {
-  .affil-strip {
-    justify-content: center;
-    gap: 14px 22px;
-    padding: 16px 0;
-  }
-  .affil-strip a { flex: 0 0 auto; }
-  .affil-strip img { height: 30px; max-width: 120px; }
-  .affil-strip img.wide { max-width: 150px; }
-  .affil-strip img.tall { height: 44px; }
-}
-
-/* ── News scroll ──────────────────────────────────────────────── */
-.news-scroll {
-  max-height: 480px;
-  overflow-y: auto;
-  padding: 18px 22px;
-  background: #fafafa;
-  border: 1px solid #e5e7eb;
-  border-left: 3px solid #2563eb;
-  border-radius: 0 8px 8px 0;
-}
-
-.news-scroll ul { list-style: none; padding: 0; margin: 0; }
-
-.news-scroll li {
-  padding: 8px 0;
-  border-bottom: 1px solid #f0f0f0;
-  font-size: 0.93rem;
-  line-height: 1.6;
-  color: #374151;
-}
-
-.news-scroll li:last-child { border-bottom: none; }
-
-.news-scroll::-webkit-scrollbar { width: 5px; }
-.news-scroll::-webkit-scrollbar-track { background: #f1f5f9; }
-.news-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
-
-/* ── Section list bullets ─────────────────────────────────────── */
-.page__content ul { padding-left: 0; }
-
-.page__content > ul > li {
-  list-style: none;
-  position: relative;
-  padding-left: 22px;
-  margin-bottom: 10px;
-}
-
-.page__content > ul > li:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 9px;
-  width: 7px;
-  height: 7px;
-  background: #2563eb;
-  border-radius: 50%;
-}
-
-.page__content ul ul { margin-top: 6px; padding-left: 18px; }
-
-.page__content ul ul li {
-  list-style: none;
-  position: relative;
-  padding-left: 14px;
-  margin-bottom: 4px;
-}
-
-.page__content ul ul li:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 9px;
-  width: 5px;
-  height: 5px;
-  background: #94a3b8;
-  border-radius: 50%;
-}
-
-/* ── CV rows (Education / Academic Appointments) ─────────────── */
-.cv-section { margin: 0 0 24px 0; }
-
-.cv-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  padding: 6px 0;
-  border-bottom: 1px solid #f0f0f0;
-  gap: 16px;
-}
-
-.cv-row:last-child { border-bottom: none; }
-
-.cv-left { flex: 1; min-width: 0; font-size: 0.95rem; color: #374151; }
-
-.cv-date {
-  white-space: nowrap;
-  color: #4a5568;
-  font-size: 0.93rem;
-  text-align: right;
-}
-
-/* ── Visitor map ──────────────────────────────────────────────── */
-.visitor-map-section {
-  margin-top: 48px;
-  text-align: center;
-}
-
-.visitor-map-section h2 {
-  font-size: 1.3rem;
-  font-weight: 600;
-  color: #1a202c;
-  margin-bottom: 20px;
-}
-
-.visitor-map-row {
-  display: flex;
-  align-items: center;
-  gap: 24px;
-  flex-wrap: wrap;
-}
-
-.visitor-map-widget {
-  flex: 0 0 380px;
-  max-width: 380px;
-  overflow: hidden;
-}
-
-.visitor-map-widget img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
-.visitor-flag-widget {
-  flex: 1 1 0;
-  min-width: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.visitor-flag-widget img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-</style>
+</section>

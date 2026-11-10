@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-A personal academic website for Chuheng Wei (PhD student at UC Riverside), built on the [academicpages](https://academicpages.github.io/) Jekyll theme — itself a fork of Minimal Mistakes. It is hosted via GitHub Pages at https://ChuhengWei.github.io. Pushing to `main` triggers automatic deployment.
+A personal academic website for Chuheng Wei (Applied Scientist at Amazon Prime Video; PhD from UC Riverside), built on the [academicpages](https://academicpages.github.io/) Jekyll theme — itself a fork of Minimal Mistakes. It is hosted via GitHub Pages at https://chuhengwei.com (custom domain; ChuhengWei.github.io redirects there). Pushing to `main` triggers automatic deployment.
 
 ## Local Development
 
@@ -43,14 +43,21 @@ Content lives in Jekyll **collections** — each folder maps to a URL path:
 - `_data/authors.yml` — author metadata used in templates
 - `_data/ui-text.yml` — UI string overrides for internationalization
 
-## Homepage Layout (`_pages/about.md`)
+## Split-Screen Layout (homepage + Publications)
 
-The homepage does **not** use the sidebar author profile (`author_profile: false`). Instead it has a fully custom layout:
+`_pages/about.md` and `_pages/publications.md` both use `layout: split` (`_layouts/split.html`), a custom layout that hides the theme masthead/footer and renders:
 
-- **`.profile-hero`** flex container: bio text on the left, photo + social icons on the right
-- **`.news-scroll`** — a `max-height: 480px; overflow-y: auto` scrollable div. News entries are markdown list items with `[MM/YYYY]` date prefixes inside `<div class="news-scroll" markdown="1">`.
-- All CSS lives in a `<style>` block at the bottom of `about.md` — there is no separate stylesheet for the homepage layout. Edit styles there.
-- Profile photo is at `/images/kxm.jpg`.
+- **Left panel** (`_includes/split-panel.html`): sticky dark column with the cover photo (`/images/kxm.jpg`), name, title, social icons and a numbered section nav. Nav anchors point to homepage sections; "Publications" links to `/publications/`. The active item is set from `page.url`. Edit name/title/links there.
+- **Right column** (`<main class="content">`): the page body, written as raw HTML `<section id="...">` blocks with an `<h2>`.
+- **All styling** is in `assets/css/split.css` (Manrope font loaded from Google Fonts). The root font size is pinned to 15px there because the theme bumps `html` to 18–20px on desktop.
+
+Homepage content conventions (`about.md`):
+
+- Experience/Education entries are `.row` blocks with a `.tile` logo (`/images/logos/*.svg|png`), org/role/location text and a `.date`. Add `<span class="tag">Current</span>` after the org for the current position.
+- News is an HTML grid: pairs of `<div class="d">MM/YYYY</div><div class="t">text</div>`. The first 8 pairs are visible; the rest sit inside `<div class="hidden-items">` and are revealed by the "Show all N updates" button (update N in both `data-more-label` and the button text when adding items).
+- Reviewer lists are `.chips` (`<a>` or `<span>` per venue).
+
+`_pages/publications.md` keeps its hand-written `.pub-card` list and Cite modal; its styles also live in `split.css`. The CV page (`_pages/cv.md`) still exists but is no longer linked from navigation.
 
 ## Publication Front Matter
 

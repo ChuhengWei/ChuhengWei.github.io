@@ -1,17 +1,21 @@
 ---
-layout: archive
+layout: split
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
+<section id="publications">
+<h2>Publications</h2>
+<p class="pub-intro">Selected peer-reviewed papers. A complete, up-to-date list is on <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
+
 <!-- Cite modal -->
-<div id="cite-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
-  <div style="background:#fff;border-radius:8px;padding:1.5em;max-width:640px;width:90%;position:relative;">
-    <button onclick="closeCite()" style="position:absolute;top:0.6em;right:0.8em;background:none;border:none;font-size:1.3em;cursor:pointer;color:#666;">&times;</button>
-    <h3 style="margin:0 0 0.8em;font-size:1em;">Cite</h3>
-    <pre id="cite-modal-content" style="background:#f4f4f4;border-radius:4px;padding:1em;font-size:0.8em;overflow-x:auto;white-space:pre-wrap;word-break:break-all;margin:0 0 0.8em;"></pre>
-    <button onclick="copyCite()" id="copy-btn" style="padding:5px 16px;background:#1a73e8;color:#fff;border:none;border-radius:4px;font-size:0.85em;font-weight:600;cursor:pointer;">Copy</button>
+<div id="cite-modal" class="cite-modal">
+  <div class="cite-box">
+    <button onclick="closeCite()" class="cite-close" aria-label="Close">&times;</button>
+    <h3>Cite</h3>
+    <pre id="cite-modal-content"></pre>
+    <button onclick="copyCite()" id="copy-btn" class="cite-copy">Copy</button>
   </div>
 </div>
 
@@ -53,7 +57,7 @@ author_profile: true
         <p class="pub-venue"><em>2026 IEEE Intelligent Vehicles Symposium (IV)</em></p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/VLM_Dataset_Survey.pdf" target="_blank">PDF</a>
-          <a class="pub-btn" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185" target="_blank" style="background:#555;">TechRxiv</a>
+          <a class="pub-btn" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185" target="_blank">TechRxiv</a>
           <button class="pub-btn cite-btn" onclick="showCite('bib-2026-iv')">Cite</button>
         </div>
       </div>
@@ -306,110 +310,4 @@ document.getElementById('cite-modal').addEventListener('click', function(e) {
   if (e.target === this) closeCite();
 });
 </script>
-
-<style>
-.bib-data { display: none; }
-
-.pub-list {
-  margin-top: 1.5em;
-}
-
-.pub-year-group {
-  margin-bottom: 2.5em;
-}
-
-.pub-year {
-  font-size: 1.2em;
-  font-weight: 700;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 0.3em;
-  margin-bottom: 1.2em;
-  color: #444;
-}
-
-.pub-card {
-  display: flex;
-  gap: 1.4em;
-  align-items: flex-start;
-  margin-bottom: 1.8em;
-}
-
-.pub-img-wrap {
-  flex: 0 0 220px;
-  max-width: 220px;
-}
-
-.pub-img-wrap img {
-  width: 100%;
-  border: 1px solid #e0e0e0;
-  border-radius: 4px;
-  object-fit: cover;
-}
-
-.pub-info {
-  flex: 1;
-}
-
-.pub-title {
-  font-size: 1em;
-  font-weight: 700;
-  margin: 0 0 0.4em;
-  line-height: 1.4;
-  color: #222;
-}
-
-.pub-authors {
-  font-size: 0.92em;
-  margin: 0 0 0.3em;
-  color: #555;
-}
-
-.pub-authors strong.me {
-  font-weight: 700;
-}
-
-.pub-venue {
-  font-size: 0.88em;
-  margin: 0 0 0.6em;
-  color: #666;
-}
-
-.pub-btn {
-  display: inline-block;
-  padding: 4px 14px;
-  font-size: 0.82em;
-  font-weight: 600;
-  color: #fff;
-  background: #1a73e8;
-  border-radius: 4px;
-  text-decoration: none;
-  border: none;
-  cursor: pointer;
-  transition: background 0.2s;
-  margin-right: 0.4em;
-}
-
-.pub-btn:hover {
-  background: #1558b0;
-  text-decoration: none;
-  color: #fff;
-}
-
-.cite-btn {
-  background: #555;
-}
-
-.cite-btn:hover {
-  background: #333;
-}
-
-@media (max-width: 600px) {
-  .pub-card {
-    flex-direction: column;
-  }
-  .pub-img-wrap {
-    flex: unset;
-    max-width: 100%;
-  }
-}
-</style>
+</section>
