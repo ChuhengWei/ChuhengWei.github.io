@@ -156,7 +156,6 @@ redirect_from:
 <section id="visitors">
 <h2>Site Visitors</h2>
 <div class="visitors">
-  <div class="map"><a href="https://info.flagcounter.com/7V0v" target="_blank" rel="noopener"><img src="https://s01.flagcounter.com/map/7V0v/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor map"></a></div>
   <div class="flags"><a href="https://info.flagcounter.com/7V0v" target="_blank" rel="noopener"><img src="https://s01.flagcounter.com/count2/7V0v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_49/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag counter"></a></div>
 </div>
 </section>
