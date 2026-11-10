@@ -149,7 +149,7 @@ Professional Service
   <h2>Site Visitors</h2>
   <div class="visitor-map-row">
     <div class="visitor-map-widget">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vHAMxvUuqjdKWfP3hxnBCtI3W6EryfxsnHfIBGI9yNY&cl=ffffff&w=a"></script>
+      <a href="https://info.flagcounter.com/7V0v"><img src="https://s01.flagcounter.com/map/7V0v/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor map" border="0"></a>
     </div>
     <div class="visitor-flag-widget">
       <a href="https://info.flagcounter.com/7V0v"><img src="https://s01.flagcounter.com/count2/7V0v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_49/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -447,6 +447,12 @@ Professional Service
   flex: 0 0 380px;
   max-width: 380px;
   overflow: hidden;
+}
+
+.visitor-map-widget img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .visitor-flag-widget {
