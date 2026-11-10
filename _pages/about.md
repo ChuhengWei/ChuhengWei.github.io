@@ -74,7 +74,7 @@ Academic Appointments
 ======
 <div class="cv-section">
   <div class="cv-row">
-    <span class="cv-left"><strong>Amazon Prime Video</strong>, US &mdash; Applied Scientist</span>
+    <span class="cv-left"><strong>Amazon Prime Video</strong>, Seattle, WA, US &mdash; Applied Scientist</span>
     <span class="cv-date">10/2026 – Present</span>
   </div>
   <div class="cv-row">
@@ -140,8 +140,8 @@ Professional Service
 
 - Technical Committees: [DriveX Workshop](https://drivex-workshop.github.io/) @ CVPR 2025, ICCV 2025, ITSC 2025, CVPR 2026 (Organizer); [Dliva Workshop](https://dliva-workshop.github.io/) @ IEEE IV 2025 (Organizer); [1st WIHR Workshop](https://icrawearable.github.io/) @ ICRA 2024 (Committee); [Coop-intelligence Workshop](https://coop-intelligence.github.io/) @ ECCV 2024 (Committee)
 
-- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [TMC](https://www.computer.org/csdl/journal/tm),[TMLR](https://jmlr.org/tmlr/), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711),  [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20)
-- Conference Reviewer: AAAI, CVPR, ICRA, IV, ITSC, IROS, ECCV, ICVES, FISTS
+- Journal Reviewer: [T-ITS](https://ieee-itss.org/pub/t-its/), [T-IV](https://ieee-itss.org/pub/t-iv/), [TVT](https://vtsociety.org/publication/ieee-transactions-on-vehicular-technology), [TMC](https://www.computer.org/csdl/journal/tm), [TDSC](https://www.computer.org/csdl/journal/tq), [OJ-ITS](https://ieee-itss.org/pub/oj-its/), [OJ-VT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711), [TMLR](https://jmlr.org/tmlr/), [TRR](https://journals.sagepub.com/home/trr), [PeerJ CS](https://peerj.com/computer-science/), [C&S](https://www.tandfonline.com/journals/ucbs20), [Sensors](https://www.mdpi.com/journal/sensors), [Vehicles](https://www.mdpi.com/journal/vehicles), [Telecom](https://www.mdpi.com/journal/telecom), [Eng](https://www.mdpi.com/journal/eng), [ERA](https://www.aimspress.com/journal/era), [KSII TIIS](http://itiis.org/)
+- Conference Reviewer: NeurIPS, AAAI, CVPR, ECCV, WACV, ICRA, IROS, IV, ITSC, TRB Annual Meeting, ICVES, FISTS
 
 ---
 
