@@ -77,6 +77,20 @@ body{color:var(--ink2);font-family:var(--sans);font-size:15px;line-height:1.7}
 button.more{display:block;margin-top:16px;background:none;border:1px solid var(--line);color:var(--ink);font-family:var(--sans);font-size:.85rem;font-weight:700;padding:8px 16px;border-radius:10px;cursor:pointer}
 button.more:hover{border-color:var(--ink)}
 
+/* ---------- selected publications (homepage) ---------- */
+.selpubs{display:flex;flex-direction:column}
+.selpub{display:grid;grid-template-columns:132px 1fr;gap:0 18px;align-items:center;padding:14px 0;border-bottom:1px solid #f1f5f9;color:inherit}
+.selpub:last-child{border-bottom:none}
+.selpub:hover{text-decoration:none}
+.selpub img{width:132px;height:84px;object-fit:cover;border:1px solid var(--line);border-radius:8px;display:block;background:#fff}
+.selpub .t{font-weight:700;color:var(--ink);font-size:.94rem;line-height:1.45;margin-bottom:3px}
+.selpub:hover .t{color:var(--accent)}
+.selpub .a{font-size:.84rem;color:var(--ink2)}
+.selpub .a b{font-weight:700;color:var(--ink)}
+.selpub .v{font-size:.8rem;color:var(--mute);margin-top:1px}
+.viewall{display:inline-block;margin-top:14px;font-weight:700;font-size:.88rem}
+@media (max-width:600px){.selpub{grid-template-columns:96px 1fr;gap:0 12px}.selpub img{width:96px;height:64px}}
+
 /* ---------- service ---------- */
 .svc h3{font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--mute);margin:18px 0 8px;font-weight:700}
 .svc h3:first-of-type{margin-top:0}

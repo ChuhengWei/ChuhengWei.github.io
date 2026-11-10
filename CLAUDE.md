@@ -49,6 +49,7 @@ Content lives in Jekyll **collections** — each folder maps to a URL path:
 
 - **Left panel** (`_includes/split-panel.html`): sticky dark column with the cover photo (`/images/kxm.jpg`), name, title, social icons and a numbered section nav. Nav anchors point to homepage sections; "Publications" links to `/publications/`. The active item is set from `page.url`. Edit name/title/links there.
 - **Right column** (`<main class="content">`): the page body, written as raw HTML `<section id="...">` blocks with an `<h2>`.
+- Homepage sections in order: about, experience, education, news, publications (Selected Publications: four `.selpub` cards linking to `/publications/`), service, visitors. The nav numbering in `split-panel.html` must follow this order.
 - **All styling** is in `assets/css/split.css` (Manrope font loaded from Google Fonts). The root font size is pinned to 15px there because the theme bumps `html` to 18–20px on desktop.
 
 Homepage content conventions (`about.md`):

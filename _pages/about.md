@@ -120,6 +120,29 @@ redirect_from:
 <button class="more" type="button" data-more="news-wrap" data-more-label="Show all 33 updates" data-less="Show fewer">Show all 33 updates</button>
 </section>
 
+<section id="publications">
+<h2>Selected Publications</h2>
+<div class="selpubs">
+  <a class="selpub" href="/publications/">
+    <img src="/images/pub_2026_PIEEE.jpg" alt="Cooperative perception survey figure">
+    <div class="txt"><div class="t">Cooperative Perception for Automated Driving: A Survey of Algorithms, Applications, and Future Directions</div><div class="a"><b>C. Wei</b>, G. Wu, M. J. Barth</div><div class="v">Proceedings of the IEEE, 2025</div></div>
+  </a>
+  <a class="selpub" href="/publications/">
+    <img src="/images/pub_2025_HeCofuse.jpg" alt="HeCoFuse figure">
+    <div class="txt"><div class="t">HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors</div><div class="a"><b>C. Wei</b>, Z. Qin, W. Zimmer, G. Wu, M. J. Barth</div><div class="v">IEEE ITSC 2025</div></div>
+  </a>
+  <a class="selpub" href="/publications/">
+    <img src="/images/pub_2025_PDB.jpg" alt="PDB dataset figure">
+    <div class="txt"><div class="t">PDB: Not All Drivers Are the Same &mdash; A Personalized Dataset for Understanding Driving Behavior</div><div class="a"><b>C. Wei</b>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, G. Wu</div><div class="v">arXiv preprint, 2025</div></div>
+  </a>
+  <a class="selpub" href="/publications/">
+    <img src="/images/pub_2024_KIGAN.png" alt="KI-GAN figure">
+    <div class="txt"><div class="t">KI-GAN: Knowledge-Informed Generative Adversarial Networks for Enhanced Multi-Vehicle Trajectory Forecasting at Signalized Intersections</div><div class="a"><b>C. Wei</b>, G. Wu, M. J. Barth, A. Abdelraouf, R. Gupta, K. Han</div><div class="v">CVPR Workshops 2024</div></div>
+  </a>
+</div>
+<a class="viewall" href="/publications/">View all publications &rarr;</a>
+</section>
+
 <section id="service" class="svc">
 <h2>Professional Service</h2>
 <h3>Workshop organization &amp; committees</h3>
