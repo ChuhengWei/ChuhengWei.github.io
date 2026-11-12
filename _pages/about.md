@@ -80,6 +80,7 @@ redirect_from:
 <h2>News</h2>
 <div class="more-wrap" id="news-wrap">
   <div class="news">
+    <div class="d">11/2026</div><div class="t"><a href="https://ieeexplore.ieee.org/document/11780732" target="_blank">Cooperative Perception: From Shared Sensing to Cooperative Intelligence</a> published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5117645" target="_blank">IEEE ITS Magazine</a></div>
     <div class="d">10/2026</div><div class="t">Started as an Applied Scientist at Amazon Prime Video</div>
     <div class="d">10/2026</div><div class="t">Two papers accepted by <a href="https://wacv.thecvf.com/" target="_blank">WACV 2027</a>: <a href="https://arxiv.org/abs/2609.01799" target="_blank">Versatile Samples for Trajectory Scoring</a> and <a href="https://arxiv.org/abs/2609.08117" target="_blank">DriveMotion</a></div>
     <div class="d">06/2026</div><div class="t">Delivered an invited talk at the IV 2026 Interaction Workshop</div>
@@ -117,7 +118,7 @@ redirect_from:
     </div>
   </div>
 </div>
-<button class="more" type="button" data-more="news-wrap" data-more-label="Show all 33 updates" data-less="Show fewer">Show all 33 updates</button>
+<button class="more" type="button" data-more="news-wrap" data-more-label="Show all 34 updates" data-less="Show fewer">Show all 34 updates</button>
 </section>
 
 <section id="publications">
@@ -125,7 +126,7 @@ redirect_from:
 <div class="selpubs">
   <a class="selpub" href="/publications/">
     <img src="/images/pub_2026_PIEEE.jpg" alt="Cooperative perception survey figure">
-    <div class="txt"><div class="t">Cooperative Perception for Automated Driving: A Survey of Algorithms, Applications, and Future Directions</div><div class="a"><b>C. Wei</b>, G. Wu, M. J. Barth</div><div class="v">Proceedings of the IEEE, 2025</div></div>
+    <div class="txt"><div class="t">Cooperative Perception for Automated Driving: A Survey of Algorithms, Applications, and Future Directions</div><div class="a"><b>C. Wei</b>, G. Wu, M. J. Barth</div><div class="v">Proceedings of the IEEE, vol. 114, no. 4, 2026</div></div>
   </a>
   <a class="selpub" href="/publications/">
     <img src="/images/pub_2025_HeCofuse.jpg" alt="HeCoFuse figure">

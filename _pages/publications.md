@@ -7,7 +7,7 @@ author_profile: false
 
 <section id="publications">
 <h2>Publications</h2>
-<p class="pub-intro">Selected peer-reviewed papers. A complete, up-to-date list is on <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<p class="pub-intro">Peer-reviewed papers and preprints. A complete, up-to-date list is on <a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
 
 <!-- Cite modal -->
 <div id="cite-modal" class="cite-modal">
@@ -21,9 +21,163 @@ author_profile: false
 
 <div class="pub-list">
 
+  <!-- ===== 2027 ===== -->
+  <div class="pub-year-group">
+    <h2 class="pub-year">2027</h2>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2027_DriveMotion.jpg" alt="DriveMotion figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">DriveMotion: A Large-Scale Multi-Source Benchmark for Driver Motion Sequence Modeling and Forecasting</p>
+        <p class="pub-authors">Y. Wang, <strong class="me">C. Wei</strong>, J. Yang, X. Liao, and H. Zhou</p>
+        <p class="pub-venue"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em>, 2027</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2609.08117" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2027-drivemotion')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2027-drivemotion" class="bib-data">@inproceedings{wang2027drivemotion,
+  title={DriveMotion: A Large-Scale Multi-Source Benchmark for Driver Motion Sequence Modeling and Forecasting},
+  author={Wang, Yuhang and Wei, Chuheng and Yang, Jingxin and Liao, Xishun and Zhou, Hao},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2027}
+}</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2027_VersatileSamples.jpg" alt="Versatile Samples figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">Designing Versatile Samples for Learned Trajectory Scoring</p>
+        <p class="pub-authors">Y. Li, J. Zhang, <strong class="me">C. Wei</strong>, C. Cui, and Z. Wang</p>
+        <p class="pub-venue"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em>, 2027</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2609.01799" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2027-versatile')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2027-versatile" class="bib-data">@inproceedings{li2027designing,
+  title={Designing Versatile Samples for Learned Trajectory Scoring},
+  author={Li, Yaguang and Zhang, Jiaru and Wei, Chuheng and Cui, Can and Wang, Ziran},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2027}
+}</div>
+  </div>
+
   <!-- ===== 2026 ===== -->
   <div class="pub-year-group">
     <h2 class="pub-year">2026</h2>
+
+    <div class="pub-card">
+      <div class="pub-info">
+        <p class="pub-title">Cooperative Perception: From Shared Sensing to Cooperative Intelligence</p>
+        <p class="pub-authors"><strong class="me">C. Wei</strong>, X. Gao, Z. Zhou, and Z. Wang</p>
+        <p class="pub-venue"><em>IEEE Intelligent Transportation Systems Magazine</em>, vol. 18, no. 6, pp. 74&ndash;83, 2026</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://ieeexplore.ieee.org/document/11780732" target="_blank">IEEE Xplore</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-mits')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-mits" class="bib-data">@article{wei2026cooperative,
+  title={Cooperative Perception: From Shared Sensing to Cooperative Intelligence},
+  author={Wei, Chuheng and Gao, Xiangbo and Zhou, Zewei and Wang, Ziran},
+  journal={IEEE Intelligent Transportation Systems Magazine},
+  volume={18},
+  number={6},
+  pages={74--83},
+  year={2026},
+  doi={10.1109/MITS.2026.3733319}
+}</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_InterSim.jpg" alt="InterSim figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation</p>
+        <p class="pub-authors">L. Jiang, <strong class="me">C. Wei</strong>, Y. Li, S. Wang, Y. Zhou, H. Yun, X. Liao, B. Pitts, and Z. Wang</p>
+        <p class="pub-venue"><em>arXiv preprint</em> arXiv:2611.05968, 2026</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2611.05968" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-intersim')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-intersim" class="bib-data">@article{jiang2026intersim,
+  title={InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation},
+  author={Jiang, Luyang and Wei, Chuheng and Li, Yaguang and Wang, Shaoqi and Zhou, Yupeng and Yun, Hyunsoo and Liao, Xishun and Pitts, Brandon and Wang, Ziran},
+  journal={arXiv preprint arXiv:2611.05968},
+  year={2026}
+}</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_TriDrive.jpg" alt="TriDrive figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">TriDrive: Joint Driver, Vehicle, and Road Modeling for Forecasting and Driver Monitoring</p>
+        <p class="pub-authors">Y. Wang, J. Yang, <strong class="me">C. Wei</strong>, Y. Guo, J. Xu, Z. Han, and H. Zhou</p>
+        <p class="pub-venue"><em>arXiv preprint</em> arXiv:2609.33000, 2026</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2609.33000" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-tridrive')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-tridrive" class="bib-data">@article{wang2026tridrive,
+  title={TriDrive: Joint Driver, Vehicle, and Road Modeling for Forecasting and Driver Monitoring},
+  author={Wang, Yuhang and Yang, Jingxin and Wei, Chuheng and Guo, Yuechen and Xu, Jinghan and Han, Zhao and Zhou, Hao},
+  journal={arXiv preprint arXiv:2609.33000},
+  year={2026}
+}</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_FSP_ITSC.jpg" alt="Freight Signal Priority architecture figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">From Sensing to Decision: A Generic Architecture for Freight Signal Priority Systems</p>
+        <p class="pub-authors">Z. Zhang, X. Zhao, <strong class="me">C. Wei</strong>, R. W. Snyder, C. Wan, K. Boriboonsomsin, P. Hao, and G. Wu</p>
+        <p class="pub-venue"><em>2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</em></p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2605.01121" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-fsp-itsc')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-fsp-itsc" class="bib-data">@inproceedings{zhang2026sensing,
+  title={From Sensing to Decision: A Generic Architecture for Freight Signal Priority Systems},
+  author={Zhang, Ziyan and Zhao, Xuanpeng and Wei, Chuheng and Snyder, Ronald William and Wan, Changxin and Boriboonsomsin, Kanok and Hao, Peng and Wu, Guoyuan},
+  booktitle={2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)},
+  year={2026},
+  publisher={IEEE}
+}</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_VISTADZ.jpg" alt="VISTA-DZ figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction</p>
+        <p class="pub-authors"><strong class="me">C. Wei</strong>, Z. Qin, Z. Wang, and G. Wu</p>
+        <p class="pub-venue"><em>arXiv preprint</em> arXiv:2606.29548, 2026</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2606.29548" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-vistadz')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-vistadz" class="bib-data">@article{wei2026vistadz,
+  title={VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction},
+  author={Wei, Chuheng and Qin, Ziye and Wang, Ziran and Wu, Guoyuan},
+  journal={arXiv preprint arXiv:2606.29548},
+  year={2026}
+}</div>
 
     <div class="pub-card">
       <div class="pub-img-wrap">
@@ -32,19 +186,23 @@ author_profile: false
       <div class="pub-info">
         <p class="pub-title">Cooperative Perception for Automated Driving: A Survey of Algorithms, Applications, and Future Directions</p>
         <p class="pub-authors"><strong class="me">C. Wei</strong>, G. Wu, and M. J. Barth</p>
-        <p class="pub-venue"><em>Proceedings of the IEEE</em>, 2025 (Early Access)</p>
+        <p class="pub-venue"><em>Proceedings of the IEEE</em>, vol. 114, no. 4, pp. 523&ndash;549, 2026</p>
         <div class="pub-links">
           <a class="pub-btn" href="/files/PIEEE_Cooperative_Perception.pdf" target="_blank">PDF</a>
+          <a class="pub-btn" href="https://doi.org/10.1109/JPROC.2025.3608874" target="_blank">IEEE Xplore</a>
           <button class="pub-btn cite-btn" onclick="showCite('bib-2026-pieee')">Cite</button>
         </div>
       </div>
     </div>
-    <div id="bib-2026-pieee" class="bib-data">@article{wei2025cooperative,
+    <div id="bib-2026-pieee" class="bib-data">@article{wei2026survey,
   title={Cooperative perception for automated driving: A survey of algorithms, applications, and future directions},
   author={Wei, Chuheng and Wu, Guoyuan and Barth, Matthew J},
   journal={Proceedings of the IEEE},
-  year={2025},
-  publisher={IEEE}
+  volume={114},
+  number={4},
+  pages={523--549},
+  year={2026},
+  doi={10.1109/JPROC.2025.3608874}
 }</div>
 
     <div class="pub-card">
@@ -68,6 +226,23 @@ author_profile: false
   booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)},
   year={2026},
   publisher={IEEE}
+}</div>
+    <div class="pub-card">
+      <div class="pub-info">
+        <p class="pub-title">A Multi-modal Detection System for Infrastructure-based Freight Signal Priority</p>
+        <p class="pub-authors">Z. Zhang, <strong class="me">C. Wei</strong>, X. Zhao, S. Li, W. Snyder, M. Stas, P. Hao, K. Boriboonsomsin, and G. Wu</p>
+        <p class="pub-venue"><em>International Conference on Transportation and Development (ICTD)</em>, 2026</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="https://arxiv.org/abs/2602.17252" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-fsp-ictd')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2026-fsp-ictd" class="bib-data">@inproceedings{zhang2026multimodal,
+  title={A Multi-modal Detection System for Infrastructure-based Freight Signal Priority},
+  author={Zhang, Ziyan and Wei, Chuheng and Zhao, Xuanpeng and Li, Siyan and Snyder, Will and Stas, Mike and Hao, Peng and Boriboonsomsin, Kanok and Wu, Guoyuan},
+  booktitle={International Conference on Transportation and Development (ICTD)},
+  year={2026}
 }</div>
   </div>
 
