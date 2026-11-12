@@ -80,7 +80,7 @@ redirect_from:
 <h2>News</h2>
 <div class="more-wrap" id="news-wrap">
   <div class="news">
-    <div class="d">11/2026</div><div class="t">Interviewed by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5117645" target="_blank">IEEE ITS Magazine</a>: <a href="https://ieeexplore.ieee.org/document/11780732" target="_blank">Cooperative Perception: From Shared Sensing to Cooperative Intelligence</a> (vol. 18, no. 6)</div>
+    <div class="d">11/2026</div><div class="t"><a href="https://ieeexplore.ieee.org/document/11780732" target="_blank">Interviewed</a> by IEEE ITS Magazine (vol. 18, no. 6)</div>
     <div class="d">10/2026</div><div class="t">Started as an Applied Scientist at Amazon Prime Video</div>
     <div class="d">10/2026</div><div class="t">Two papers accepted by <a href="https://wacv.thecvf.com/" target="_blank">WACV 2027</a>: <a href="https://arxiv.org/abs/2609.01799" target="_blank">Versatile Samples for Trajectory Scoring</a> and <a href="https://arxiv.org/abs/2609.08117" target="_blank">DriveMotion</a></div>
     <div class="d">06/2026</div><div class="t">Delivered an invited talk at the IV 2026 Interaction Workshop</div>
