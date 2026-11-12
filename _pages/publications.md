@@ -66,33 +66,33 @@ author_profile: false
   booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   year={2027}
 }</div>
+
+    <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2025_PDB.jpg" alt="PDB figure">
+      </div>
+      <div class="pub-info">
+        <p class="pub-title">PDB: Not All Drivers Are the Same — A Personalized Dataset for Understanding Driving Behavior</p>
+        <p class="pub-authors"><strong class="me">C. Wei</strong>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, and G. Wu</p>
+        <p class="pub-venue"><em>IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)</em>, WAM-AD Workshop, 2027</p>
+        <div class="pub-links">
+          <a class="pub-btn" href="/files/PDB.pdf" target="_blank">PDF</a>
+          <a class="pub-btn" href="https://arxiv.org/abs/2503.06477" target="_blank">arXiv</a>
+          <button class="pub-btn cite-btn" onclick="showCite('bib-2027-pdb')">Cite</button>
+        </div>
+      </div>
+    </div>
+    <div id="bib-2027-pdb" class="bib-data">@inproceedings{wei2027pdb,
+  title={PDB: Not All Drivers Are the Same--A Personalized Dataset for Understanding Driving Behavior},
+  author={Wei, Chuheng and Qin, Ziye and Li, Siyan and Zhang, Ziyan and Zhao, Xuanpeng and Abdelraouf, Amr and Gupta, Rohit and Han, Kyungtae and Barth, Matthew J and Wu, Guoyuan},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), WAM-AD Workshop},
+  year={2027}
+}</div>
   </div>
 
   <!-- ===== 2026 ===== -->
   <div class="pub-year-group">
     <h2 class="pub-year">2026</h2>
-
-    <div class="pub-card">
-      <div class="pub-info">
-        <p class="pub-title">Cooperative Perception: From Shared Sensing to Cooperative Intelligence</p>
-        <p class="pub-authors"><strong class="me">C. Wei</strong>, X. Gao, Z. Zhou, and Z. Wang</p>
-        <p class="pub-venue"><em>IEEE Intelligent Transportation Systems Magazine</em>, vol. 18, no. 6, pp. 74&ndash;83, 2026</p>
-        <div class="pub-links">
-          <a class="pub-btn" href="https://ieeexplore.ieee.org/document/11780732" target="_blank">IEEE Xplore</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2026-mits')">Cite</button>
-        </div>
-      </div>
-    </div>
-    <div id="bib-2026-mits" class="bib-data">@article{wei2026cooperative,
-  title={Cooperative Perception: From Shared Sensing to Cooperative Intelligence},
-  author={Wei, Chuheng and Gao, Xiangbo and Zhou, Zewei and Wang, Ziran},
-  journal={IEEE Intelligent Transportation Systems Magazine},
-  volume={18},
-  number={6},
-  pages={74--83},
-  year={2026},
-  doi={10.1109/MITS.2026.3733319}
-}</div>
 
     <div class="pub-card">
       <div class="pub-img-wrap">
@@ -228,6 +228,9 @@ author_profile: false
   publisher={IEEE}
 }</div>
     <div class="pub-card">
+      <div class="pub-img-wrap">
+        <img src="/images/pub_2026_FSP_ICTD.jpg" alt="FSP deployment site figure">
+      </div>
       <div class="pub-info">
         <p class="pub-title">A Multi-modal Detection System for Infrastructure-based Freight Signal Priority</p>
         <p class="pub-authors">Z. Zhang, <strong class="me">C. Wei</strong>, X. Zhao, S. Li, W. Snyder, M. Stas, P. Hao, K. Boriboonsomsin, and G. Wu</p>
@@ -316,27 +319,6 @@ author_profile: false
   pages={1817--1824},
   year={2025},
   organization={IEEE}
-}</div>
-
-    <div class="pub-card">
-      <div class="pub-img-wrap">
-        <img src="/images/pub_2025_PDB.jpg" alt="PDB figure">
-      </div>
-      <div class="pub-info">
-        <p class="pub-title">PDB: Not All Drivers Are the Same — A Personalized Dataset for Understanding Driving Behavior</p>
-        <p class="pub-authors"><strong class="me">C. Wei</strong>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, and G. Wu</p>
-        <p class="pub-venue"><em>arXiv preprint</em> arXiv:2503.06477, 2025</p>
-        <div class="pub-links">
-          <a class="pub-btn" href="/files/PDB.pdf" target="_blank">PDF</a>
-          <button class="pub-btn cite-btn" onclick="showCite('bib-2025-pdb')">Cite</button>
-        </div>
-      </div>
-    </div>
-    <div id="bib-2025-pdb" class="bib-data">@article{wei2025pdb,
-  title={PDB: Not All Drivers Are the Same--A Personalized Dataset for Understanding Driving Behavior},
-  author={Wei, Chuheng and Qin, Ziye and Li, Siyan and Zhang, Ziyan and Zhao, Xuanpeng and Abdelraouf, Amr and Gupta, Rohit and Han, Kyungtae and Barth, Matthew J and Wu, Guoyuan},
-  journal={arXiv preprint arXiv:2503.06477},
-  year={2025}
 }</div>
   </div>
 

@@ -134,7 +134,7 @@ redirect_from:
   </a>
   <a class="selpub" href="/publications/">
     <img src="/images/pub_2025_PDB.jpg" alt="PDB dataset figure">
-    <div class="txt"><div class="t">PDB: Not All Drivers Are the Same &mdash; A Personalized Dataset for Understanding Driving Behavior</div><div class="a"><b>C. Wei</b>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, G. Wu</div><div class="v">arXiv preprint, 2025</div></div>
+    <div class="txt"><div class="t">PDB: Not All Drivers Are the Same &mdash; A Personalized Dataset for Understanding Driving Behavior</div><div class="a"><b>C. Wei</b>, Z. Qin, S. Li, Z. Zhang, X. Zhao, A. Abdelraouf, R. Gupta, K. Han, M. J. Barth, G. Wu</div><div class="v">WACV 2027 Workshops (WAM-AD)</div></div>
   </a>
   <a class="selpub" href="/publications/">
     <img src="/images/pub_2024_KIGAN.png" alt="KI-GAN figure">
