@@ -55,7 +55,7 @@ Content lives in Jekyll **collections** — each folder maps to a URL path:
 Homepage content conventions (`about.md`):
 
 - Experience/Education entries are `.row` blocks with a `.tile` logo (`/images/logos/*.svg|png`), org/role/location text and a `.date`. Add `<span class="tag">Current</span>` after the org for the current position.
-- News is an HTML grid: pairs of `<div class="d">MM/YYYY</div><div class="t">text</div>`. The first 8 pairs are visible; the rest sit inside `<div class="hidden-items">` and are revealed by the "Show all N updates" button (update N in both `data-more-label` and the button text when adding items).
+- News is an HTML grid: pairs of `<div class="d">MM/YYYY</div><div class="t">text</div>`. The first 12 pairs are visible; the rest sit inside `<div class="hidden-items">` and are revealed by the "Show all N updates" button (update N in both `data-more-label` and the button text when adding items).
 - Reviewer lists are `.chips` (`<a>` or `<span>` per venue).
 
 `_pages/publications.md` keeps its hand-written `.pub-card` list and Cite modal; its styles also live in `split.css`. The CV page (`_pages/cv.md`) still exists but is no longer linked from navigation.

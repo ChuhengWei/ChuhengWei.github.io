@@ -88,12 +88,11 @@ redirect_from:
     <div class="d">05/2026</div><div class="t">One paper accepted by <a href="https://ieee-itsc.org/2026/" target="_blank">ITSC 2026</a></div>
     <div class="d">04/2026</div><div class="t">Successfully defended <a href="https://www.linkedin.com/feed/update/urn:li:activity:7455670716835860480/" target="_blank">PhD dissertation</a> at UC Riverside</div>
     <div class="d">04/2026</div><div class="t">Delivered an <a href="https://tbd.ctr.utexas.edu/seminar-webinar/intelligent-and-personalized-autonomous-driving-advancing-perception-cooperation-and-human-aware-prediction-systems/" target="_blank">invited talk</a> at ASU and UT Austin on V2X and personalized autonomous driving</div>
-    <div class="d">02/2026</div><div class="t">Book proposal titled "V2X-Enabled Cooperative Driving Systems" accepted by Springer Nature</div>
-    <div class="hidden-items">
     <div class="d">01/2026</div><div class="t"><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203266.67901185" target="_blank">VLM Dataset Survey</a> accepted by <a href="https://ieee-iv.org/2026/" target="_blank">IEEE IV 2026</a></div>
     <div class="d">09/2025</div><div class="t">Started internship as Applied Scientist Intern at <a href="https://www.amazon.science/" target="_blank">Amazon</a></div>
     <div class="d">09/2025</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/11186152/" target="_blank">Cooperative Perception Survey</a> accepted in <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4357935" target="_blank">Proceedings of the IEEE</a> (IF: 25.9)</div>
     <div class="d">08/2025</div><div class="t"><a href="https://ieeexplore.ieee.org/abstract/document/11122292" target="_blank">One Paper</a> accepted in R-AL</div>
+    <div class="hidden-items">
     <div class="d">07/2025</div><div class="t"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LXwEufAAAAAJ&sortby=pubdate&citation_for_view=LXwEufAAAAAJ:KlAtU1dfN6UC" target="_blank">EKI-GAN</a> accepted by <a href="https://iccv.thecvf.com/" target="_blank">ICCV 2025</a> <a href="https://www.aicitychallenge.org/" target="_blank">AI City Workshop</a></div>
     <div class="d">07/2025</div><div class="t"><a href="https://arxiv.org/abs/2507.13677" target="_blank">HeCoFuse</a> and PointCompress3D accepted by <a href="https://ieee-itsc.org/2025/" target="_blank">ITSC 2025</a></div>
     <div class="d">06/2025</div><div class="t">Awarded 2025 UCR Esther F. Hays Graduate Fellowship</div>
@@ -118,7 +117,7 @@ redirect_from:
     </div>
   </div>
 </div>
-<button class="more" type="button" data-more="news-wrap" data-more-label="Show all 34 updates" data-less="Show fewer">Show all 34 updates</button>
+<button class="more" type="button" data-more="news-wrap" data-more-label="Show all 33 updates" data-less="Show fewer">Show all 33 updates</button>
 </section>
 
 <section id="publications">
