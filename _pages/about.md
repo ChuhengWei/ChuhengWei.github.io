@@ -65,7 +65,7 @@ redirect_from:
   </div>
   <div class="row">
     <div class="tile"><img src="/images/logos/warwick.svg" alt="University of Warwick"></div>
-    <div class="txt"><div class="org">University of Warwick</div><div class="role">M.S.</div><div class="loc">Coventry, UK</div></div>
+    <div class="txt"><div class="org">University of Warwick</div><div class="role">MSc</div><div class="loc">Coventry, UK</div></div>
     <div class="date">10/2021 – 10/2022</div>
   </div>
   <div class="row">
@@ -81,7 +81,7 @@ redirect_from:
 <div class="more-wrap" id="news-wrap">
   <div class="news">
     <div class="d">11/2026</div><div class="t"><a href="https://ieeexplore.ieee.org/document/11780732" target="_blank">Interviewed</a> by IEEE ITS Magazine (vol. 18, no. 6)</div>
-    <div class="d">10/2026</div><div class="t">Started as an Applied Scientist at Amazon Prime Video</div>
+    <div class="d">10/2026</div><div class="t">Started as an Applied Scientist at Amazon Prime Video <img class="nlogo" src="/images/logos/prime-video.svg" alt="Prime Video"></div>
     <div class="d">10/2026</div><div class="t">Two papers accepted by <a href="https://wacv.thecvf.com/" target="_blank">WACV 2027</a>: <a href="https://arxiv.org/abs/2609.01799" target="_blank">Versatile Samples for Trajectory Scoring</a> and <a href="https://arxiv.org/abs/2609.08117" target="_blank">DriveMotion</a></div>
     <div class="d">06/2026</div><div class="t">Delivered an invited talk at the IV 2026 Interaction Workshop</div>
     <div class="d">05/2026</div><div class="t">Started as a Postdoctoral Researcher at <a href="https://www.purdue.edu/" target="_blank">Purdue University</a></div>

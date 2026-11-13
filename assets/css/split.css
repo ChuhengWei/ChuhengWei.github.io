@@ -71,6 +71,7 @@ body{color:var(--ink2);font-family:var(--sans);font-size:15px;line-height:1.7}
 /* ---------- news ---------- */
 .news{display:grid;grid-template-columns:82px 1fr;column-gap:16px}
 .news>div{padding:8px 0;border-bottom:1px solid #f1f5f9;font-size:.93rem;line-height:1.6}
+.news .t img.nlogo{height:1.2em;width:auto;vertical-align:-.25em;margin-left:5px;display:inline-block}
 .news .d{font-weight:700;color:var(--accent);font-size:.8rem;padding-top:11px;font-variant-numeric:tabular-nums}
 .more-wrap .hidden-items{display:none}
 .more-wrap.open .hidden-items{display:contents}
