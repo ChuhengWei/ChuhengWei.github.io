@@ -61,7 +61,7 @@ redirect_from:
   <div class="row">
     <div class="tile"><img src="/images/logos/ucr.svg" alt="University of California, Riverside"></div>
     <div class="txt"><div class="org">University of California, Riverside</div><div class="role">Ph.D.</div><div class="loc">Riverside, CA, US</div></div>
-    <div class="date">10/2022 – 04/2026</div>
+    <div class="date">10/2022 – 06/2026</div>
   </div>
   <div class="row">
     <div class="tile"><img src="/images/logos/warwick.svg" alt="University of Warwick"></div>
