@@ -49,7 +49,7 @@ redirect_from:
   </div>
   <div class="row">
     <div class="tile"><img src="/images/logos/onsemi.svg" alt="Onsemi"></div>
-    <div class="txt"><div class="org">Onsemi</div><div class="role">Computer Vision Research Assistant</div><div class="loc">Coventry, UK</div></div>
+    <div class="txt"><div class="org">Onsemi</div><div class="role">Industrial Research Project Student</div><div class="loc">Coventry, UK</div></div>
     <div class="date">11/2021 – 09/2022</div>
   </div>
 </div>
