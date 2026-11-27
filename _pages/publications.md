@@ -67,7 +67,7 @@ author_profile: false
   year={2027}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="pdb">
       <div class="pub-img-wrap">
         <img src="/images/pub_2025_PDB.jpg" alt="PDB figure">
       </div>
@@ -115,7 +115,7 @@ author_profile: false
   year={2026}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="tridrive">
       <div class="pub-img-wrap">
         <img src="/images/pub_2026_TriDrive.jpg" alt="TriDrive figure">
       </div>
@@ -158,7 +158,7 @@ author_profile: false
   publisher={IEEE}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="vista-dz">
       <div class="pub-img-wrap">
         <img src="/images/pub_2026_VISTADZ.jpg" alt="VISTA-DZ figure">
       </div>
@@ -179,7 +179,7 @@ author_profile: false
   year={2026}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="survey">
       <div class="pub-img-wrap">
         <img src="/images/pub_2026_PIEEE.jpg" alt="PIEEE Cooperative Perception figure">
       </div>
@@ -253,7 +253,7 @@ author_profile: false
   <div class="pub-year-group">
     <h2 class="pub-year">2025</h2>
 
-    <div class="pub-card">
+    <div class="pub-card" id="ekigan">
       <div class="pub-img-wrap">
         <img src="/images/pub_2025_EKIGAN.png" alt="EKI-GAN figure">
       </div>
@@ -275,7 +275,7 @@ author_profile: false
   year={2025}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="hecofuse">
       <div class="pub-img-wrap">
         <img src="/images/pub_2025_HeCofuse.jpg" alt="HeCoFuse figure">
       </div>
@@ -326,7 +326,7 @@ author_profile: false
   <div class="pub-year-group">
     <h2 class="pub-year">2024</h2>
 
-    <div class="pub-card">
+    <div class="pub-card" id="fctl">
       <div class="pub-img-wrap">
         <img src="/images/pub_2024_FCTL.jpg" alt="FCTL figure">
       </div>
@@ -348,7 +348,7 @@ author_profile: false
   year={2024}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="kigan">
       <div class="pub-img-wrap">
         <img src="/images/pub_2024_KIGAN.png" alt="KI-GAN figure">
       </div>
@@ -370,7 +370,7 @@ author_profile: false
   year={2024}
 }</div>
 
-    <div class="pub-card">
+    <div class="pub-card" id="raf-rcnn">
       <div class="pub-img-wrap">
         <img src="/images/pub_2024_RAFRCNN.jpg" alt="RAF-RCNN figure">
       </div>
